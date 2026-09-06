@@ -1,0 +1,3907 @@
+//#region node_modules/.nitro/vite/services/ssr/assets/places-DPUE4OFc.js
+var UNESCO_PLACES = [
+	{
+		id: "unesco-istanbul",
+		name: "İstanbul'un Tarihi Alanları",
+		category: "unesco",
+		district: "Fatih",
+		side: "avrupa",
+		region: "marmara",
+		unescoYear: 1985,
+		unescoKind: "kulturel",
+		era: "Roma / Bizans / Osmanlı",
+		summary: "Dört parça: Sultanahmet arkeoloji parkı, Süleymaniye, Zeyrek ve kara surları. 1985'ten beri listedeki çekirdek.",
+		description: "UNESCO kaydı tek bir cami değil, tarihi yarımadanın dört bölgesi. Hipodrom–Ayasofya–Topkapı hattı, Süleymaniye külliyesi, Zeyrek Pantokrator ve Theodosius kara surları. Şehirdeki müze ve tarihi durakların çoğu bu sınırın içinde; listeye 'İstanbul' diye giren şey bu doku.",
+		highlights: [
+			"Sultanahmet parkı",
+			"Süleymaniye",
+			"Zeyrek",
+			"Kara surları"
+		],
+		hours: "Açık kent; camiler namaz vakitlerinde sınırlı, müzeler ayrı saat.",
+		fee: "Sokak ücretsiz. Müzeler ve bazı iç mekanlar ücretli.",
+		transport: "T1 Sultanahmet / Gülhane / Beyazıt. M2 Vezneciler.",
+		address: "Tarihi yarımada, Fatih",
+		lat: 41.0086,
+		lng: 28.9802,
+		tags: [
+			"unesco",
+			"yarımada",
+			"ayasofya",
+			"süleymaniye",
+			"sur"
+		],
+		image: "/images/unesco-istanbul.jpg",
+		distanceKm: 7,
+		duration: "Merkezden 25 dk",
+		bestTime: "İlkbahar ve sonbahar; yazın 08:30’da başlayın.",
+		tips: ["Dört bölgeyi tek günde bitirmeyin; sur ayrı bir yürüyüş.", "Zeyrek sakin kalır; kalabalık Sultanahmet’ten sonra dinlenme."]
+	},
+	{
+		id: "unesco-goreme",
+		name: "Göreme Milli Parkı ve Kapadokya",
+		category: "unesco",
+		district: "Nevşehir",
+		side: "ulke",
+		region: "ic-anadolu",
+		unescoYear: 1985,
+		unescoKind: "karma",
+		era: "Bizans / jeoloji",
+		summary: "Peribacası, kaya kilise ve yeraltı şehri. Kültür ile volkanik peyzaj aynı kayıtta.",
+		description: "Göreme Açık Hava Müzesi asıl biletli çekirdek; vadiler (Kızıl, Güllüdere, Ihlara) ücretsiz yürüyüş. Derinkuyu ve Kaymaklı yeraltı şehirleri ayrı bilet. Balon sabahın köründe; öğleden sonra vadi sakinleşir. Karma miras: hem kaya oyma manastır hem erozyon peyzajı.",
+		highlights: [
+			"Göreme açık hava",
+			"Kaya kiliseleri",
+			"Yeraltı şehirleri",
+			"Vadiler"
+		],
+		hours: "Müze genelde 08:00–17:00; yazın daha geç. Vadiler gündüz.",
+		fee: "Açık hava müzesi ve yeraltı şehirleri ücretli. Müzekart çoğu zaman geçerli.",
+		transport: "İstanbul’dan Kayseri veya Nevşehir uçuşu; transfer 40–70 dk. Otogar: Göreme–Ürgüp dolmuş.",
+		address: "Göreme, Nevşehir",
+		lat: 38.6431,
+		lng: 34.8289,
+		tags: [
+			"unesco",
+			"kapadokya",
+			"peribacası",
+			"karma"
+		],
+		image: "/images/unesco-goreme.jpg",
+		duration: "Uçuş ~1,5 saat",
+		bestTime: "Nisan–Haziran ve Eylül–Ekim. Kış sisli ve soğuk, yaz öğleni yakar.",
+		tips: ["Balon hava iptali sık; tek programa bağlamayın.", "Kırmızı vadi gün batımı için; açık hava müzesi sabah ilk saat."]
+	},
+	{
+		id: "unesco-divrigi",
+		name: "Divriği Ulu Camii ve Darüşşifası",
+		category: "unesco",
+		district: "Sivas",
+		side: "ulke",
+		region: "dogu-anadolu",
+		unescoYear: 1985,
+		unescoKind: "kulturel",
+		era: "Mengücek / 1228",
+		summary: "Taşın Anadolu’daki zirvesi. Cami ve hastane tek avluda; portal her cephede başka dil.",
+		description: "Mengücekli Ahmed Şah ve Turan Melek’in 13. yüzyıl külliyesi. Kuzey ve batı taçkapıları neredeyse hiç tekrar etmeyen bitkisel oyma. Darüşşifa geometrik; cami daha serbest. Sivas merkeze uzak, günübirlik zor; Sivas veya Erzincan üzerinden geceli plan.",
+		highlights: [
+			"Batı taçkapı",
+			"Kuzey portal",
+			"Darüşşifa",
+			"Ahşap minber"
+		],
+		hours: "Gündüz; kışın erken kapanır. Restorasyon dönemlerinde iç kısmi kapalı olabilir.",
+		fee: "Cami genelde ücretsiz. Müze bölümü ücretli olabilir.",
+		transport: "Sivas–Divriği tren veya otobüs ~2,5–3 saat. İstanbul’dan Sivas uçuşu + kara.",
+		address: "Divriği, Sivas",
+		lat: 39.3714,
+		lng: 38.1167,
+		tags: [
+			"unesco",
+			"selçuklu",
+			"taş işçiliği",
+			"cami"
+		],
+		image: "/images/unesco-divrigi.jpg",
+		duration: "Sivas’tan 3 saat",
+		bestTime: "Mayıs–Ekim. Kış karı Divriği’yi keser.",
+		tips: ["Portal fotoğrafı öğle gölgesinde kaybolur; sabah yan ışık.", "Kasabada konak sınırlı; aynı gün dönüşü hesaba katın."]
+	},
+	{
+		id: "unesco-hattusa",
+		name: "Hattuşa: Hitit Başkenti",
+		category: "unesco",
+		district: "Çorum",
+		side: "ulke",
+		region: "ic-anadolu",
+		unescoYear: 1986,
+		unescoKind: "kulturel",
+		era: "Hitit",
+		summary: "Aslanlı Kapı, Yerkapı tüneli ve Yazılıkaya açık hava tapınağı. Hitit imparatorluğunun başkenti.",
+		description: "Boğazkale’de yayılmış, araba veya uzun yürüyüş ister. Aslanlı Kapı ve Kral Kapı simge; Yerkapı basamaklı tünel. Yazılıkaya rölyefleri ayrı park alanında, 2 km. Çorum müzesindeki tabletler olmadan ören yeri yarım kalır.",
+		highlights: [
+			"Aslanlı Kapı",
+			"Yerkapı",
+			"Yazılıkaya",
+			"Büyük tapınak"
+		],
+		hours: "Yazın 08:00–19:00 civarı; kış erken. Yazılıkaya aynı bilet.",
+		fee: "Ücretli. Müzekart.",
+		transport: "Ankara’dan 3 saat, Çorum’dan 1 saat. Boğazkale köyünde pansiyon var.",
+		address: "Boğazkale, Çorum",
+		lat: 40.0197,
+		lng: 34.6153,
+		tags: [
+			"unesco",
+			"hitit",
+			"hattuşa",
+			"yazılıkaya"
+		],
+		image: "/images/unesco-hattusa.jpg",
+		duration: "Ankara’dan 3 saat",
+		bestTime: "Nisan–Haziran, Eylül. Yaz öğleni gölgesiz.",
+		tips: ["Su ve şapka şart. Rota 3–4 km, düz ayakkabı yetmez.", "Yazılıkaya’yı sona saklamayın; ışık sabah daha iyi."]
+	},
+	{
+		id: "unesco-nemrut",
+		name: "Nemrut Dağı",
+		category: "unesco",
+		district: "Adıyaman",
+		side: "ulke",
+		region: "guneydogu",
+		unescoYear: 1987,
+		unescoKind: "kulturel",
+		era: "Kommagene / MÖ 1. yy",
+		summary: "Doğu ve batı terasında dev tanrı başları. 2.150 m; gün doğumu için gece çıkılır.",
+		description: "I. Antiochos’un tümülüsü. Heykeller yıkık; başlar kaidelerin önünde. Doğu terası gün doğumu, batı gün batımı. Karakış Kasım–Nisan yolu kapatır. Adıyaman veya Kahta üs; zirveye minibüs veya tur. Rüzgâr yaz gecesinde bile keskin.",
+		highlights: [
+			"Doğu terası",
+			"Batı terası",
+			"Tümülüs",
+			"Tanrı başları"
+		],
+		hours: "Zirve gündüz açık; kış kapalı dönemleri uzun. Gün doğumu turu gece 02:00 civarı çıkar.",
+		fee: "Milli park girişi ücretli.",
+		transport: "İstanbul–Adıyaman uçuşu. Kahta’dan 1 saat virajlı yol. Özel araç veya tur.",
+		address: "Karakuş / Kahta, Adıyaman",
+		lat: 37.9808,
+		lng: 38.7408,
+		tags: [
+			"unesco",
+			"nemrut",
+			"kommagene",
+			"dağ"
+		],
+		image: "/images/unesco-nemrut.jpg",
+		duration: "Adıyaman’dan 2 saat",
+		elevation: "2.150 m",
+		bestTime: "Mayıs–Ekim. Temmuz–Ağustos zirvede bile serin; katmanlı giyinin.",
+		tips: ["Yazın bile polar alın. Rüzgâr keser.", "Doğu ve batı teras ayrı; ikisini aynı seferde yürüyün."]
+	},
+	{
+		id: "unesco-xanthos",
+		name: "Ksantos – Letoon",
+		category: "unesco",
+		district: "Antalya / Muğla",
+		side: "ulke",
+		region: "akdeniz",
+		unescoYear: 1988,
+		unescoKind: "kulturel",
+		era: "Likya",
+		summary: "Likya’nın başkenti ve kutsal alanı. Tiyatro, sütun mezarlar; Nereidler anıtı British Museum’da.",
+		description: "Kınık yakınında Ksantos ören yeri; Letoon 4 km güneyde üç tapınak (Leto, Artemis, Apollon). Likçe–Yunanca yazıtlar federal tapınağın belgesi. Fethiye–Kaş hattında, öğleden sonra sıcakta gölge yok. Harpy anıtının kopyası yerinde.",
+		highlights: [
+			"Ksantos tiyatrosu",
+			"Sütun mezarlar",
+			"Letoon tapınakları",
+			"Likçe yazıt"
+		],
+		hours: "Yazın 08:30–19:00; kış daha kısa.",
+		fee: "İki ören yeri ayrı bilet. Müzekart.",
+		transport: "Dalaman veya Antalya havalimanı. Fethiye’den 1 saat, Kaş’tan 45 dk.",
+		address: "Kınık, Kaş / Seydikemer",
+		lat: 36.3567,
+		lng: 29.3194,
+		tags: [
+			"unesco",
+			"likya",
+			"ksantos",
+			"letoon"
+		],
+		image: "/images/unesco-xanthos.jpg",
+		duration: "Fethiye’den 1 saat",
+		bestTime: "Mart–Mayıs, Eylül–Kasım.",
+		tips: ["Letoon bataklık kenarı; sivrisinek ve çamur.", "İki alanı aynı biletle saymayın."]
+	},
+	{
+		id: "unesco-pamukkale",
+		name: "Hierapolis – Pamukkale",
+		category: "unesco",
+		district: "Denizli",
+		side: "ulke",
+		region: "ege",
+		unescoYear: 1988,
+		unescoKind: "karma",
+		era: "Roma / jeoloji",
+		summary: "Traverten basamaklar ve Hierapolis nekropolü. Ayakkabı travertende çıkarıldı; tiyatro yukarıda.",
+		description: "Karma miras: kalsiyum terasları ve Roma spa kenti. Travertene yalınayak; yol kaygan. Hierapolis tiyatrosu, Frontinus caddesi, antik havuz (ücret ayrı). Kuzey nekropol Anadolu’nun en büyüklerinden. Denizli merkeze 20 dk.",
+		highlights: [
+			"Traverten",
+			"Hierapolis tiyatrosu",
+			"Nekropol",
+			"Antik havuz"
+		],
+		hours: "Park genelde 06:30–21:00 yazın; kış kısa. Sabah erken teras boş.",
+		fee: "Milli park ücretli. Antik havuz ayrı. Müzekart geçmeyebilir, kontrol edin.",
+		transport: "Denizli Çardak havalimanı + 1 saat. İstanbul’dan yüksek hızlı tren + otobüs seçeneği var.",
+		address: "Pamukkale, Denizli",
+		lat: 37.9264,
+		lng: 29.1264,
+		tags: [
+			"unesco",
+			"pamukkale",
+			"hierapolis",
+			"karma"
+		],
+		image: "/images/unesco-pamukkale.jpg",
+		duration: "Denizli’den 25 dk",
+		bestTime: "Nisan–Haziran, Eylül–Ekim. Yaz öğleni teras kör eder.",
+		tips: ["Ayakkabı poşeti verilir; tere kayılır.", "Selfie kuyruğu öğleden sonra; tiyatro sakin kalır."]
+	},
+	{
+		id: "unesco-safranbolu",
+		name: "Safranbolu Kenti",
+		category: "unesco",
+		district: "Karabük",
+		side: "ulke",
+		region: "karadeniz",
+		unescoYear: 1994,
+		unescoKind: "kulturel",
+		era: "Osmanlı",
+		summary: "Çarşı, kanyon ve konak. Osmanlı evinin ders kitabı; safran adı, kahverengi kiremit silueti.",
+		description: "Çarşı (eski) mahalle UNESCO çekirdeği; Bağlar yayla evleri yazlık. Cinci Han, kaymakamlar evi, demirciler çarşısı. İstanbul’dan 5 saat otoyol; Karabük tren + dolmuş. Hafta sonu pansiyonlar doluyor.",
+		highlights: [
+			"Çarşı mahallesi",
+			"Cinci Han",
+			"Konaklar",
+			"Tokatlı kanyonu"
+		],
+		hours: "Kent sürekli açık. Müzeler genelde 09:00–17:00.",
+		fee: "Sokak ücretsiz. Bazı konak müzeleri ücretli.",
+		transport: "İstanbul’dan otobüs ~5 saat. Ankara 3 saat. Karabük’ten 15 dk.",
+		address: "Çarşı, Safranbolu",
+		lat: 41.2508,
+		lng: 32.6831,
+		tags: [
+			"unesco",
+			"osmanlı",
+			"konak",
+			"safranbolu"
+		],
+		image: "/images/unesco-safranbolu.jpg",
+		duration: "İstanbul’dan 5 saat",
+		bestTime: "Nisan–Haziran, Eylül–Ekim. Kış sisli ve kaygan sokak.",
+		tips: ["Çarşı yokuş; düz taban değil.", "Kanyon gün batımı; çarşı sabah boş."]
+	},
+	{
+		id: "unesco-troy",
+		name: "Truva Arkeolojik Alanı",
+		category: "unesco",
+		district: "Çanakkale",
+		side: "yakin",
+		region: "marmara",
+		unescoYear: 1998,
+		unescoKind: "kulturel",
+		era: "Tunç Çağı / Homeros",
+		summary: "Dokuz katmanlı höyük, İlyada’nın sahnesi. Ören yeri küçük; asıl anlatı müzede.",
+		description: "Hisarlık tepesi. Troya I–IX aynı kesitte; Schliemann’ın açtığı yarma hâlâ okunur. Ahşap at maketi girişte, sitenin kendisi değil. 2018 Troya Müzesi 800 m aşağıda, höyükten önemli. Çanakkale merkeze 30 dk.",
+		highlights: [
+			"Kesit katmanlar",
+			"Troya Müzesi",
+			"Doğu suru",
+			"Rampa"
+		],
+		hours: "Yazın 08:00–19:00; müze benzer. Pazartesi müze kapalı dönemleri olmuş.",
+		fee: "Ören yeri ve müze ayrı veya kombine. Müzekart.",
+		transport: "İstanbul’dan 5 saat otoyol / feribot. Çanakkale’den dolmuş: Tevfikiye.",
+		address: "Tevfikiye, Çanakkale",
+		lat: 39.9575,
+		lng: 26.2389,
+		tags: [
+			"unesco",
+			"truva",
+			"homeros",
+			"tunç"
+		],
+		image: "/images/unesco-troy.jpg",
+		duration: "İstanbul’dan 5 saat",
+		bestTime: "Nisan–Haziran, Eylül. Rüzgâr her mevsim.",
+		tips: ["Önce müze, sonra höyük: katmanlar yerinde anlam kazanır.", "Gölge az; 90 dakika yeter."]
+	},
+	{
+		id: "unesco-selimiye",
+		name: "Selimiye Camii ve Külliyesi",
+		category: "unesco",
+		district: "Edirne",
+		side: "yakin",
+		region: "marmara",
+		unescoYear: 2011,
+		unescoKind: "kulturel",
+		era: "Osmanlı / 1575",
+		summary: "Sinan’ın ‘ustalık eserim’ dediği kubbe. Dört minare, 31,5 m kubbe, hâlâ çalışan cami.",
+		description: "Selim II için. Avlu, arasta, darülhadis ve medrese aynı ada. İç mekân tek payesiz kubbe; müezzin mahfili ve çini mihrap. Namaz vakitlerinde tur kısıtlı. Edirne merkeze yürüyüş; İstanbul’dan otobüs 2,5 saat.",
+		highlights: [
+			"Merkezi kubbe",
+			"Dört minare",
+			"Arasta",
+			"Mihrap çinisi"
+		],
+		hours: "Cami sürekli; tur namaz aralarında. Müze bölümleri ayrı saat.",
+		fee: "Cami ücretsiz. Müze / arasta dükkânları ayrı.",
+		transport: "Esenler veya Alibeyköy’den Edirne otobüsü ~2,5 saat. Şehir içi yaya.",
+		address: "Meydan, Edirne",
+		lat: 41.6781,
+		lng: 26.5594,
+		tags: [
+			"unesco",
+			"sinan",
+			"edirne",
+			"cami"
+		],
+		image: "/images/unesco-selimiye.jpg",
+		duration: "İstanbul’dan 2,5 saat",
+		bestTime: "Yıl boyu. Kırkpınar haftası kalabalık.",
+		tips: ["Ayakkabı çıkarılır; çorap.", "Kubbeyi avludan ve içeriden ayrı okuyun."]
+	},
+	{
+		id: "unesco-catalhoyuk",
+		name: "Çatalhöyük Neolitik Kenti",
+		category: "unesco",
+		district: "Konya",
+		side: "ulke",
+		region: "ic-anadolu",
+		unescoYear: 2012,
+		unescoKind: "kulturel",
+		era: "Neolitik / MÖ 7400–6000",
+		summary: "Kapısız evler, damdan giriş, duvar resmi. Dünyanın en erken yerleşik köylerinden.",
+		description: "Çumra ovasında iki höyük. Kuzey sığınak altında kerpiç odalar; sokak yok, evler birbirine yaslı. Konya Arkeoloji Müzesi’ndeki avcı ve leopar sahneleri asıl parçalar — yerinde kopya ve kesit. Gölge sığınakta; yaz ovada yakar.",
+		highlights: [
+			"Doğu höyük sığınağı",
+			"Kerpiç evler",
+			"Duvar resimleri",
+			"Ziyaretçi merkezi"
+		],
+		hours: "Yaz 08:00–17:00; kış kısa. Pazartesi kapalı olabilir.",
+		fee: "Ücretli. Müzekart.",
+		transport: "Konya’dan Çumra ~1 saat, sonra 12 km. Özel araç veya tur.",
+		address: "Küçükköy, Çumra",
+		lat: 37.6667,
+		lng: 32.8281,
+		tags: [
+			"unesco",
+			"neolitik",
+			"çatalhöyük",
+			"konya"
+		],
+		image: "/images/unesco-catalhoyuk.jpg",
+		duration: "Konya’dan 1 saat",
+		bestTime: "Nisan–Haziran, Eylül. Öğle sığınağın içinde serin.",
+		tips: ["Konya müzesini aynı güne alın.", "Saha 45–60 dakika; abartmayın."]
+	},
+	{
+		id: "unesco-bursa",
+		name: "Bursa ve Cumalıkızık",
+		category: "unesco",
+		district: "Bursa",
+		side: "yakin",
+		region: "marmara",
+		unescoYear: 2014,
+		unescoKind: "kulturel",
+		era: "Erken Osmanlı",
+		summary: "Hanlar bölgesi, külliyeler ve vakıf köyü. Osmanlı’nın ilk başkent peyzajı.",
+		description: "Orhan ve Murad külliyeleri, Koza Han, Ulu Cami, Muradiye. Cumalıkızık Uludağ eteklerinde kerpiç–ahşap köy; çilek ve cobblestone. İstanbul’dan feribot + otoyol ~2,5 saat. Hanlar yürüyüş, Kızık ayrı dolmuş.",
+		highlights: [
+			"Hanlar bölgesi",
+			"Ulu Cami",
+			"Cumalıkızık",
+			"Muradiye"
+		],
+		hours: "Camiler namaz arası. Köy sürekli. Müzeler 09:00–17:00.",
+		fee: "Sokak ve cami ücretsiz. Bazı türbe ve müzeler ücretli.",
+		transport: "Yenikapı–Bursa feribot veya otoyol. Cumalıkızık’a merkezden 20 dk.",
+		address: "Osmangazi / Yıldırım, Bursa",
+		lat: 40.1836,
+		lng: 29.0626,
+		tags: [
+			"unesco",
+			"osmanlı",
+			"bursa",
+			"cumalıkızık"
+		],
+		image: "/images/unesco-bursa.jpg",
+		duration: "İstanbul’dan 2,5 saat",
+		bestTime: "Nisan–Haziran, Eylül–Ekim. Uludağ kışı ayrı plan.",
+		tips: ["Koza Han’da çay, Ulu Cami’de 20 kubbe.", "Kızık cobblestone; tekerlekli valiz bırakın."]
+	},
+	{
+		id: "unesco-pergamon",
+		name: "Pergamon Çok Katmanlı Kültürel Peyzaj",
+		category: "unesco",
+		district: "İzmir",
+		side: "ulke",
+		region: "ege",
+		unescoYear: 2014,
+		unescoKind: "kulturel",
+		era: "Helenistik / Roma",
+		summary: "Akropol, Traianus tapınağı, Asklepion. Zeus sunağı Berlin’de; yeri Bergama’da boş platform.",
+		description: "Bergama akropolüne teleferik. Tiyatro yamaca dik, kütüphane ve tapınak terası. Zeus sunağının temeli yerinde. Asklepion ovada ayrı bilet — sağlık kültü. Kızıl Avlu (Serapeion) şehir içinde. İzmir’den 2 saat.",
+		highlights: [
+			"Akropol",
+			"Traianeum",
+			"Asklepion",
+			"Kızıl Avlu"
+		],
+		hours: "Yaz 08:00–19:00. Teleferik aynı saat bandı.",
+		fee: "Akropol ve Asklepion ayrı. Müzekart.",
+		transport: "İzmir–Bergama otobüs. Akropol teleferik veya virajlı yol.",
+		address: "Bergama, İzmir",
+		lat: 39.132,
+		lng: 27.184,
+		tags: [
+			"unesco",
+			"pergamon",
+			"bergama",
+			"helenistik"
+		],
+		image: "/images/unesco-pergamon.jpg",
+		duration: "İzmir’den 2 saat",
+		bestTime: "Nisan–Haziran. Akropol rüzgârlı ve gölgesiz.",
+		tips: ["Su alın. Zeus sunağını Berlin’de aramayın, temeli görün.", "Asklepion ayrı yarım gün."]
+	},
+	{
+		id: "unesco-diyarbakir",
+		name: "Diyarbakır Kalesi ve Hevsel Bahçeleri",
+		category: "unesco",
+		district: "Diyarbakır",
+		side: "ulke",
+		region: "guneydogu",
+		unescoYear: 2015,
+		unescoKind: "kulturel",
+		era: "Roma / İslam",
+		summary: "5,5 km bazalt sur ve Dicle kıyısı bahçeleri. Kentin kara ile nehir arasındaki peyzajı.",
+		description: "İçkale’den Urfa Kapı’ya sur yürüyüşü. Bastionlar, kitabeler, dört ana kapı. Hevsel, sur dibinden Dicle’ye inen tarihi bostan; bakış noktası On Gözlü Köprü. Yaz öğleni bazalt yakar; gölge az.",
+		highlights: [
+			"Sur yürüyüşü",
+			"İçkale",
+			"Hevsel bahçeleri",
+			"On Gözlü Köprü"
+		],
+		hours: "Sur sürekli. Müzeler 09:00–17:00.",
+		fee: "Sur ve bahçe ücretsiz. İçkale müzesi ücretli olabilir.",
+		transport: "Diyarbakır havalimanı merkeze 20 dk. Sur içi yaya.",
+		address: "Sur, Diyarbakır",
+		lat: 37.91,
+		lng: 40.236,
+		tags: [
+			"unesco",
+			"sur",
+			"hevsel",
+			"dicle"
+		],
+		image: "/images/unesco-diyarbakir.jpg",
+		duration: "Havalimanından 20 dk",
+		bestTime: "Nisan–Mayıs, Ekim. Yaz 40°C’yi geçer.",
+		tips: ["Sabah sur, akşam köprü. Öğle içeri.", "Bazalt tozlu; açık renk ayakkabı kirlenir."]
+	},
+	{
+		id: "unesco-ephesus",
+		name: "Efes",
+		category: "unesco",
+		district: "İzmir",
+		side: "ulke",
+		region: "ege",
+		unescoYear: 2015,
+		unescoKind: "kulturel",
+		era: "Helenistik / Roma",
+		summary: "Celsus Kütüphanesi, yamaç evler, büyük tiyatro. Akdeniz’in en okunaklı Roma caddesi.",
+		description: "Selçuk’un 3 km batısı. Kuretler Caddesi aşağı iner, Celsus’ta durur, tiyatroda biter. Yamaç evler (Domus) ayrı bilet, mozaik ve fresk — atlamayın. Meryem Ana Evi ve St. Jean ayrı. Kuşadası ve İzmir turları sabah doldurur.",
+		highlights: [
+			"Celsus Kütüphanesi",
+			"Yamaç evler",
+			"Büyük tiyatro",
+			"Kuretler Caddesi"
+		],
+		hours: "Yaz 08:00–19:00. Yamaç evler aynı park içinde erken kapanabilir.",
+		fee: "Ören yeri + yamaç ev ayrı. Müzekart.",
+		transport: "İzmir Adnan Menderes + Selçuk tren ~1 saat. Kuşadası’ndan 30 dk.",
+		address: "Selçuk, İzmir",
+		lat: 37.939,
+		lng: 27.341,
+		tags: [
+			"unesco",
+			"efes",
+			"celsus",
+			"roma"
+		],
+		image: "/images/unesco-ephesus.jpg",
+		duration: "İzmir’den 1 saat",
+		bestTime: "Nisan–Mayıs, Ekim. Yaz 10:00’da kuyruk ve gölge yok.",
+		tips: ["Üst kapıdan girip alta inin; dönüş servisi veya taksi.", "Yamaç ev biletini kapıda alın."]
+	},
+	{
+		id: "unesco-ani",
+		name: "Ani Arkeolojik Alanı",
+		category: "unesco",
+		district: "Kars",
+		side: "ulke",
+		region: "dogu-anadolu",
+		unescoYear: 2016,
+		unescoKind: "kulturel",
+		era: "Bagratuni / 10–13. yy",
+		summary: "Arpaçay kenarında terk edilmiş başkent. Katedral, Aziz Gregor ve rüzgârlı plato.",
+		description: "Kars’a 42 km, Ermenistan sınırı. Surlar, Fethiye (katedral), Aziz Gregor (Tigran Honents), Menûçihr Camii, İsa’nın Kurtarıcısı. Plato açık, rüzgâr sürekli, gölge yok. Kış karı alanı kapatır. Kars müzesi bağlam verir.",
+		highlights: [
+			"Ani Katedrali",
+			"Tigran Honents",
+			"Surlar",
+			"Arpaçay kenarı"
+		],
+		hours: "Yaz 08:00–19:00; kış kısa veya kapalı.",
+		fee: "Ücretli. Müzekart.",
+		transport: "Kars havalimanı + 45 dk. Tur veya taksi; dolmuş seyrek.",
+		address: "Ocaklı köyü, Kars",
+		lat: 40.5075,
+		lng: 43.5728,
+		tags: [
+			"unesco",
+			"ani",
+			"kars",
+			"ermeni"
+		],
+		image: "/images/unesco-ani.jpg",
+		duration: "Kars’tan 45 dk",
+		bestTime: "Haziran–Eylül. Rüzgâr her mevsim.",
+		tips: ["Su, şapka, rüzgârlık. 2–3 saat yürüyüş.", "Sınır hattı; drone yasağına uyun."]
+	},
+	{
+		id: "unesco-aphrodisias",
+		name: "Aphrodisias",
+		category: "unesco",
+		district: "Aydın",
+		side: "ulke",
+		region: "ege",
+		unescoYear: 2017,
+		unescoKind: "kulturel",
+		era: "Roma",
+		summary: "Afrodit tapınağı, stadyum ve Sebasteion. Mermer heykel atölyesinin kenti; müze yerinde.",
+		description: "Geyre köyü. Tetrapylon giriş kapısı, stadyum 30.000 kişilik, mermer ocağı aynı mülkte. Müze, ören yerinden kopuk değil — heykel burada kaldı. Denizli–Aydın arası, turist otobüsü Efes’e göre seyrek; sakin kalır.",
+		highlights: [
+			"Tetrapylon",
+			"Stadyum",
+			"Sebasteion",
+			"Afrodit tapınağı"
+		],
+		hours: "Yaz 08:00–19:00. Müze aynı bilet.",
+		fee: "Ücretli. Müzekart.",
+		transport: "Denizli veya Aydın’dan Nazilli, sonra Geyre. Özel araç rahat.",
+		address: "Geyre, Karacasu, Aydın",
+		lat: 37.7086,
+		lng: 28.7236,
+		tags: [
+			"unesco",
+			"aphrodisias",
+			"mermer",
+			"roma"
+		],
+		image: "/images/unesco-aphrodisias.jpg",
+		duration: "Denizli’den 1,5 saat",
+		bestTime: "Nisan–Haziran, Eylül. Ova yazın bunaltır.",
+		tips: ["Müze + stadyum yetmezse tapınak ve hamam ekleyin.", "Gölge az; 2,5 saat planlayın."]
+	},
+	{
+		id: "unesco-gobeklitepe",
+		name: "Göbekli Tepe",
+		category: "unesco",
+		district: "Şanlıurfa",
+		side: "ulke",
+		region: "guneydogu",
+		unescoYear: 2018,
+		unescoKind: "kulturel",
+		era: "Neolitik / MÖ 9500",
+		summary: "T biçimli dikilitaşlar, tarımdan önce tapınak. İnsanlık tarihinin kaydırdığı tepe.",
+		description: "Örencik köyü, Urfa merkeze 15 km. Ziyaretçi merkezi ve mekik; alana özel araç sokulmaz. Koruma çatısı altında D ve C yapıları. Taşlardaki tilki, yılan, boğa kabartmaları yakından. Şanlıurfa Arkeoloji ve Haleplibahçe mozaikleri aynı güne sığar. Yaz 40°C.",
+		highlights: [
+			"T dikilitaşlar",
+			"D yapısı",
+			"Hayvan kabartmaları",
+			"Koruma çatısı"
+		],
+		hours: "Yaz erken açılır. Mekik seferleri sık. Pazartesi kontrol edin.",
+		fee: "Ücretli. Müzekart. Otopark + mekik dahil veya ayrı olabilir.",
+		transport: "Şanlıurfa havalimanı 45 dk. Merkezden düzenli servis / tur.",
+		address: "Örencik, Haliliye",
+		lat: 37.2231,
+		lng: 38.9225,
+		tags: [
+			"unesco",
+			"göbeklitepe",
+			"neolitik",
+			"urfa"
+		],
+		image: "/images/unesco-gobeklitepe.jpg",
+		duration: "Urfa’dan 20 dk",
+		bestTime: "Ekim–Nisan. Yaz yalnızca sabah 08:00.",
+		tips: ["Mekik kuyruğu öğle uzar; erken gidin.", "Taşa dokunulmaz; fotoğraf çatı gölgesinde net."]
+	},
+	{
+		id: "unesco-arslantepe",
+		name: "Arslantepe Höyüğü",
+		category: "unesco",
+		district: "Malatya",
+		side: "ulke",
+		region: "dogu-anadolu",
+		unescoYear: 2021,
+		unescoKind: "kulturel",
+		era: "Geç Uruk / MÖ 4. binyıl",
+		summary: "Kerpiç saray, dünyanın erken kılıçları, aslanlı kapı. Malatya ovasında 30 katman.",
+		description: "Battalgazi (eski Malatya) kıyısı. İtalyan kazısı; saray koridorları ve duvar boyaları sığınak altında. Aslanlı kapı orijinali Ankara Anadolu Medeniyetleri’nde, yerinde kopya. 2020 depremi Malatya’yı vurdu; ziyaret saatini yerel duyurudan alın.",
+		highlights: [
+			"Kerpiç saray",
+			"Aslanlı kapı",
+			"Erken kılıçlar",
+			"Duvar boyaları"
+		],
+		hours: "Gündüz; kış ve restorasyon dönemlerinde kısmi.",
+		fee: "Ücretli. Müzekart.",
+		transport: "Malatya havalimanı + Battalgazi 20–30 dk.",
+		address: "Orduzu / Battalgazi, Malatya",
+		lat: 38.3821,
+		lng: 38.3611,
+		tags: [
+			"unesco",
+			"arslantepe",
+			"malatya",
+			"tunç"
+		],
+		image: "/images/unesco-arslantepe.jpg",
+		duration: "Malatya’dan 25 dk",
+		bestTime: "Nisan–Haziran, Eylül–Ekim.",
+		tips: ["Sığınak içinde nem; yazın bile ince ceket.", "Anadolu Medeniyetleri’ndeki aslanları ayrı gezin."]
+	},
+	{
+		id: "unesco-gordion",
+		name: "Gordion",
+		category: "unesco",
+		district: "Ankara",
+		side: "ulke",
+		region: "ic-anadolu",
+		unescoYear: 2023,
+		unescoKind: "kulturel",
+		era: "Frig",
+		summary: "Midas tümülüsü, Frig başkenti. Polatlı ovasında höyük, ahşap mezar odası müzede.",
+		description: "Yassıhöyük. Tümülüs MM (Midas’ın babası Gordios’a atfedilir) 53 m; içine girilmez, kesit müzede. Kraliyet höyüğü, erken Frig kapısı. Ankara’dan 1,5 saat, Polatlı sonrası köy yolu. Listeye 2023’te girdi; kalabalık henüz yok.",
+		highlights: [
+			"Midas tümülüsü",
+			"Frig kapısı",
+			"Gordion Müzesi",
+			"Höyük"
+		],
+		hours: "Yaz 08:30–17:30. Müze pazartesi kapalı olabilir.",
+		fee: "Müze + ören yeri. Müzekart.",
+		transport: "Ankara–Polatlı yol, Yassıhöyük sapak. Özel araç veya günübirlik tur.",
+		address: "Yassıhöyük, Polatlı",
+		lat: 39.6506,
+		lng: 31.9922,
+		tags: [
+			"unesco",
+			"gordion",
+			"frig",
+			"midas"
+		],
+		image: "/images/unesco-gordion.jpg",
+		duration: "Ankara’dan 1,5 saat",
+		bestTime: "Nisan–Haziran, Eylül. Ova kış rüzgârı sert.",
+		tips: ["Tümülüs dışarıdan 15 dakika; asıl iş müze.", "Gölge yok, su alın."]
+	},
+	{
+		id: "unesco-ahsap",
+		name: "Anadolu'nun Ahşap Direkli Camileri",
+		category: "unesco",
+		district: "Anadolu",
+		side: "ulke",
+		region: "ic-anadolu",
+		unescoYear: 2023,
+		unescoKind: "kulturel",
+		era: "Selçuklu / Beylikler / 13–14. yy",
+		summary: "Beş cami, tek kayıt: Afyon, Sivrihisar, Ankara Aslanhane, Beyşehir Eşrefoğlu, Kastamonu Mahmut Bey.",
+		description: "Ortaçağ Anadolu’sunun düz ahşap tavanlı, direkli camileri. Eşrefoğlu (Beyşehir) en görkemlisi — 42 sedir direk, elvan kiriş. Aslanhane Ankara kalesi eteğinde. Afyon ve Sivrihisar Ulu Camileri, Kasaba Mahmut Bey kırsal ölçek. Hepsi hâlâ ibadet yeri; namaz arası gezilir.",
+		highlights: [
+			"Eşrefoğlu",
+			"Aslanhane",
+			"Afyon Ulu Cami",
+			"Mahmut Bey"
+		],
+		hours: "Camiler namaz vakitleri dışında. Kış Mahmut Bey köy yolu zorlaşır.",
+		fee: "Ücretsiz. Ayakkabı çıkarılır.",
+		transport: "Eşrefoğlu: Beyşehir, Konya’ya 1,5 saat. Aslanhane: Ankara Kale. Seri alan, tek günde bitmez.",
+		address: "Beyşehir · Afyon · Ankara · Sivrihisar · Kastamonu Kasaba",
+		lat: 37.6775,
+		lng: 31.7258,
+		tags: [
+			"unesco",
+			"ahşap",
+			"cami",
+			"eşrefoğlu",
+			"aslanhane"
+		],
+		image: "/images/unesco-ahsap.jpg",
+		duration: "Konya’dan 1,5 saat (Eşrefoğlu)",
+		bestTime: "Yıl boyu. Mahmut Bey için kar erimesi sonrası.",
+		tips: ["Beşini bir tur sanmayın; Eşrefoğlu + Aslanhane ayrı sefer.", "İçeride flaş yok; direk yazıları okumak için göz alışır."]
+	},
+	{
+		id: "unesco-sardis",
+		name: "Sardes ve Bin Tepe Lidya Tümülüsleri",
+		category: "unesco",
+		district: "Manisa",
+		side: "ulke",
+		region: "ege",
+		unescoYear: 2025,
+		unescoKind: "kulturel",
+		era: "Lidya / Roma",
+		summary: "Listenin 2025 kaydı. Lidya başkenti, Artemis tapınağı, gymnasium ve Bin Tepe kral mezarları.",
+		description: "Salihli–Sart. Gymnasium–hamam cephesi simge; Artemis tapınağı ovada ayrı parça, sinagog mozaikleri gymnasium yanında. Bin Tepe, Gediz ovasında onlarca tümülüs — Kral Alyattes’inki en büyüğü, yoldan görünür. Kazı aktif; bazı sektörler kapalı olabilir.",
+		highlights: [
+			"Gymnasium cephesi",
+			"Artemis tapınağı",
+			"Sinagog",
+			"Bin Tepe"
+		],
+		hours: "Yaz 08:00–19:00. Bin Tepe açık peyzaj; tarla yolundan.",
+		fee: "Sardes ören yeri ücretli. Müzekart. Bin Tepe dışarıdan ücretsiz bakılır.",
+		transport: "İzmir–Salihli yol, Sart istasyonu. Manisa’dan 1 saat.",
+		address: "Sart, Salihli, Manisa",
+		lat: 38.4881,
+		lng: 28.0403,
+		tags: [
+			"unesco",
+			"sardes",
+			"lidya",
+			"bin tepe"
+		],
+		image: "/images/unesco-sardis.jpg",
+		duration: "İzmir’den 1,5 saat",
+		bestTime: "Nisan–Haziran, Eylül. Ova yazın bunaltır.",
+		tips: ["Tapınak ve gymnasium 1 km ayrı; araç veya yürüyüş.", "Bin Tepe için gün batımı ışığı."]
+	}
+];
+var TREK_PACKING = [
+	"En az 1,5 L su",
+	"Yağmurluk veya rüzgarlık",
+	"Kaymaz tabanlı ayakkabı",
+	"Atıştırmalık / kuru yemiş",
+	"Offline harita (sinyal düşer)",
+	"Şapka ve güneş kremi",
+	"Uzun çorap (kene, ilkbahar orman)"
+];
+var TREK_PLACES = [
+	{
+		id: "trek-bentler",
+		name: "Belgrad Bentler parkuru",
+		category: "yuruyus",
+		district: "Sarıyer",
+		side: "avrupa",
+		trailKind: "orman",
+		trailKm: 9,
+		summary: "İstanbul’un en yürünen rotası: Validebent, Büyükbent, kayın-meşe gölgesi. Döngü, işaretli, toplu taşımla ulaşılır.",
+		description: "Belgrad Ormanı’nın klasik bentler halkası. Bahçeköy veya 7.–9. km mesire girişinden başlanır; Osmanlı su bentleri (Valide, Büyük, yer yer Kirazlı) orman yolunda peş peşe gelir. Zemin geniş orman yolu + patika, eğim yumuşak. Hafta sonu koşucular dolar; hafta içi sakin. Gece kampı yok — günübirlik parkur. Kış çamur, sonbahar yaprak, ilkbahar kene.",
+		highlights: [
+			"Validebent",
+			"Büyükbent",
+			"Kayın gölgesi",
+			"9 km döngü"
+		],
+		hours: "Gündüz. Mesire girişleri akşam kapanabilir.",
+		fee: "Yaya genelde ücretsiz; araçlı mesire girişi ücretli.",
+		transport: "42HM / Bahçeköy otobüsleri. Araçla 7. veya 9. km.",
+		address: "Bahçeköy, Belgrad Ormanı",
+		lat: 41.184,
+		lng: 28.961,
+		tags: [
+			"belgrad",
+			"bentler",
+			"trekking",
+			"orman"
+		],
+		image: "/images/trek-belgrad.jpg",
+		distanceKm: 22,
+		duration: "9 km · 2,5–3 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"orman",
+			"yuruyus",
+			"wc",
+			"ates-yasak"
+		],
+		difficulty: "kolay",
+		terrain: "Orman yolu ve patika",
+		elevation: "60–160 m · +120 m",
+		bestTime: "Ekim, Nisan–Mayıs",
+		tips: [
+			"Hafta sonu 09:00’dan önce çıkın; 9. km otopark dolar.",
+			"Offline harita: patikalar çatallanır, tabela yer yer eksik.",
+			"Kene mevsimi: uzun çorap, dönüşte tarama."
+		],
+		packing: [
+			"Su 1,5 L",
+			"Yağmurluk",
+			"Kene spreyi",
+			"Offline harita"
+		],
+		rules: [
+			"İzinsiz gece kampı cezalı.",
+			"Mangal yalnızca izinli ızgara.",
+			"Çöp sıfır."
+		]
+	},
+	{
+		id: "trek-aydos",
+		name: "Aydos Tepesi",
+		category: "yuruyus",
+		district: "Kartal / Pendik",
+		side: "asya",
+		trailKind: "orman",
+		trailKm: 11,
+		summary: "İstanbul’un en yüksek noktası (537 m). Gölet, kale kalıntısı, Marmara bakışı. Anadolu yakasının klasik parkuru.",
+		description: "Aydos Kent Ormanı’nda gölet çevresi ve tepeye çıkan işaretli yollar. Popüler halka 10–12 km; kısa gölet turu 4 km. Zirvede kale izi ve açık havada kent+Marmara. Çam ağırlıklı, yaz öğleni gölge iyi, kış sis manzarayı kapatır. Ocak–Şubat’ta İstanbul kardeleni (Galanthus) için bilinir. Çadır beklemeyin.",
+		highlights: [
+			"537 m zirve",
+			"Aydos Göleti",
+			"Kale kalıntısı",
+			"Kardelen"
+		],
+		hours: "Gündüz. Parkur kışın çamurlu.",
+		fee: "Ücretsiz / mesire kuralı.",
+		transport: "Kartal metro + dolmuş / Kaynarca. Araçla otopark gölet yanı.",
+		address: "Aydos Kent Ormanı, Kartal",
+		lat: 40.921,
+		lng: 29.235,
+		tags: [
+			"aydos",
+			"zirve",
+			"trekking",
+			"anadolu"
+		],
+		image: "/images/trek-aydos.jpg",
+		distanceKm: 22,
+		duration: "11 km · 3–4 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"orman",
+			"yuruyus",
+			"gol",
+			"ates-yasak"
+		],
+		difficulty: "orta",
+		terrain: "Çam ormanı, yer yer dik yokuş",
+		elevation: "200–537 m · +300 m",
+		bestTime: "Ekim, Nisan; kardelen için Ocak–Şubat",
+		tips: [
+			"Su çeşmesi dönemsel; kendi suyunuzu alın.",
+			"Zirve sisliyse gölet halkasıyla yetinin.",
+			"Hafta sonu piknik kalabalığı gölette, tepede azalır."
+		],
+		packing: [
+			"2 L su",
+			"Kaymaz taban",
+			"Rüzgarlık",
+			"Atıştırmalık"
+		],
+		rules: [
+			"Motor parkurda yok.",
+			"İzinsiz çadır yok.",
+			"Bitki koparmayın."
+		]
+	},
+	{
+		id: "trek-polonez",
+		name: "Polonezköy parkuru",
+		category: "yuruyus",
+		district: "Beykoz",
+		side: "asya",
+		trailKind: "orman",
+		trailKm: 7,
+		summary: "Tabiat parkı içinde meşe-kayın halkası. Aile ve ilk parkur için en güvenli adres; köy kahvaltısı dönüşte.",
+		description: "19. yüzyıl Polonya köyünün tabiat parkı. İşaretli yürüyüş yolları 5–8 km; çamur kışın gerçek, çizme ister. Eğim düşük, tabela var, kaybolmak zor. Park girişi ücretli. Köy içi pansiyon ve kahvaltı; parkuru bitirip İcadiye’ye inmek ayrı iş — burada kalın. Dört mevsim, yangın sezonunda ateş yasak.",
+		highlights: [
+			"İşaretli halka",
+			"Kayın tüneli",
+			"Köy kahvaltısı"
+		],
+		hours: "Park gündüz ağırlıklı.",
+		fee: "Tabiat parkı giriş ücreti.",
+		transport: "Beykoz / Kavacık. Hafta sonu trafik uzun.",
+		address: "Polonezköy Tabiat Parkı, Beykoz",
+		lat: 41.108,
+		lng: 29.212,
+		tags: [
+			"polonezköy",
+			"aile",
+			"trekking",
+			"tabiat parkı"
+		],
+		image: "/images/trek-polonez.jpg",
+		distanceKm: 32,
+		duration: "7 km · 2 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"orman",
+			"yuruyus",
+			"wc",
+			"market",
+			"ates-yasak"
+		],
+		difficulty: "kolay",
+		terrain: "Parkur zemini, kışın çamur",
+		elevation: "130–200 m · +80 m",
+		bestTime: "Nisan–Mayıs, Ekim",
+		tips: [
+			"Nakit giriş olabiliyor.",
+			"Köpek tasma; park kuralı.",
+			"Kahvaltıyı parkurdan sonraya bırakın, yokuş tok karnına ağır."
+		],
+		packing: [
+			"Yürüyüş ayakkabısı",
+			"Yağmurluk",
+			"Nakit"
+		],
+		rules: [
+			"Park tüzüğü.",
+			"Ateş yasak.",
+			"Köpek tasma."
+		]
+	},
+	{
+		id: "trek-buyukada",
+		name: "Büyükada Aya Yorgi",
+		category: "yuruyus",
+		district: "Adalar",
+		side: "asya",
+		trailKind: "ada",
+		trailKm: 12,
+		summary: "Vapur + yükselen çam yolu + Aya Yorgi kilisesi. Adanın sırtı, Dil Burnu ve Marmara bakışı. Motor yok, yokuş var.",
+		description: "Kınalıada–Burgaz–Heybeli hattının en büyük adası. İskeleden Nizam veya Maden’e, sonra Aya Yorgi (Yücetepe) yokuşu. Tam ada halkası 12–13 km, +300 m; yalnız kilise 4–5 km ama dik. Fayton/elektrikli araç yasağı dönemsel değişir — yürüyüş asıl iş. Yaz öğleni gölgesiz sırtlar yanar; ilkbahar ve sonbahar altın. Dönüş vapurunu kaçırmayın.",
+		highlights: [
+			"Aya Yorgi",
+			"Çam sırtı",
+			"Dil Burnu",
+			"Vapur günü"
+		],
+		hours: "Vapur seferine bağlı; kış seferi seyrekleşir.",
+		fee: "Vapur bileti. Kilise bağışı dönemsel.",
+		transport: "Kabataş / Beşiktaş / Kadıköy / Bostancı vapur.",
+		address: "Büyükada, Adalar",
+		lat: 40.858,
+		lng: 29.12,
+		tags: [
+			"büyükada",
+			"aya yorgi",
+			"ada",
+			"trekking"
+		],
+		image: "/images/trek-buyukada.jpg",
+		distanceKm: 20,
+		duration: "12 km · 4–5 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"yuruyus",
+			"orman",
+			"market"
+		],
+		difficulty: "orta",
+		terrain: "Asfalt yokuş + çam patika",
+		elevation: "0–200 m · +320 m",
+		bestTime: "Nisan–Haziran, Eylül–Ekim",
+		tips: [
+			"İlk vapurla gidin; dönüş kuyruğu akşam uzar.",
+			"Aya Yorgi basamakları kaygan; çorap + taban.",
+			"Su adada pahalı; iskeleden doldurun."
+		],
+		packing: [
+			"2 L su",
+			"Şapka",
+			"Vapur kartı",
+			"Atıştırmalık"
+		],
+		rules: ["Çam ormanında ateş yok.", "Terk edilmiş köşklere girmeyin."]
+	},
+	{
+		id: "trek-heybeli",
+		name: "Heybeliada döngüsü",
+		category: "yuruyus",
+		district: "Adalar",
+		side: "asya",
+		trailKind: "ada",
+		trailKm: 7,
+		summary: "Büyükada’dan sakin, çam kokulu halka. Çam Limanı, Değirmen tepesi, Ruhban Okulu sırtı. 7 km, aile uyumlu.",
+		description: "Heybeliada’nın iki tepesini dolaşan gölgeli parkur. Çam Limanı koyu, deniz bakışı, yer yer dik iniş-çıkış. Ruhban Okulu (Halki) dışarıdan; giriş kuralı ayrı. Büyükada kadar turist yok. Bisiklet kiralayıp itmek yerine yürüyün — yokuş gerçek. Yazın çam gölgesi kurtarır.",
+		highlights: [
+			"Çam Limanı",
+			"Değirmen tepesi",
+			"Halki sırtı"
+		],
+		hours: "Vapur seferi.",
+		fee: "Vapur.",
+		transport: "Kadıköy / Bostancı / Kabataş ada vapuru.",
+		address: "Heybeliada, Adalar",
+		lat: 40.878,
+		lng: 29.093,
+		tags: [
+			"heybeliada",
+			"çam",
+			"ada",
+			"trekking"
+		],
+		image: "/images/trek-heybeli.jpg",
+		distanceKm: 18,
+		duration: "7 km · 2–2,5 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"yuruyus",
+			"orman",
+			"market"
+		],
+		difficulty: "kolay",
+		terrain: "Çam ormanı, kısa asfalt",
+		elevation: "0–140 m · +180 m",
+		bestTime: "Mayıs–Haziran, Eylül",
+		tips: ["Büyükada ile aynı güne sıkıştırmayın.", "Çam Limanı kayalık; denize inmek ayrı karar."],
+		packing: [
+			"Su",
+			"Şapka",
+			"Vapur kartı"
+		],
+		rules: ["Ruhban Okulu özel alan.", "Ateş yok."]
+	},
+	{
+		id: "trek-yusa",
+		name: "Yuşa Tepesi – Anadolu Kavağı",
+		category: "yuruyus",
+		district: "Beykoz",
+		side: "asya",
+		trailKind: "kent",
+		trailKm: 5,
+		summary: "Boğaz’ın Karadeniz ağzı. Vapurla köy, dik yokuş, türbe ve karşı kıyı. Kısa ama manzara başına en çok kazandıran parkur.",
+		description: "Üsküdar–Anadolu Kavağı vapuru (Boğaz turu hattı) köy iskelesine bırakır. Köy balıkçısı, sonra Yuşa’ya asfalt+patika yokuş (~2 km, dik). Tepede Hz. Yuşa türbesi, Türk bayrağı, Boğaz’ın Karadeniz’e açıldığı kesit. İnmesi de diz ister. Toplam 4–6 km; süre yokuşta biter. Poyraz sert, kış rüzgarı kemirir.",
+		highlights: [
+			"Boğaz ağzı",
+			"Yuşa türbesi",
+			"Kavağı köyü",
+			"Dik yokuş"
+		],
+		hours: "Vapur seferi; türbe gündüz.",
+		fee: "Vapur. Köy ve tepe ücretsiz.",
+		transport: "Boğaz turu vapuru Anadolu Kavağı. 15A otobüs alternatif.",
+		address: "Anadolu Kavağı, Beykoz",
+		lat: 41.176,
+		lng: 29.088,
+		tags: [
+			"yuşa",
+			"kavağı",
+			"boğaz",
+			"trekking"
+		],
+		image: "/images/trek-yusa.jpg",
+		distanceKm: 25,
+		duration: "5 km · 2 sa",
+		seasons: ["dort-mevsim"],
+		facilities: ["yuruyus", "market"],
+		difficulty: "orta",
+		terrain: "Dik asfalt ve toprak yokuş",
+		elevation: "0–180 m · +180 m",
+		bestTime: "Nisan–Haziran, Eylül–Ekim; sisiz gün",
+		tips: [
+			"Dönüş vapur saatini köyde kontrol edin; son sefer erken olabilir.",
+			"Yokuşta su; tepede çeşme dönemsel.",
+			"Cuma ve kandilde türbe kalabalık."
+		],
+		packing: [
+			"Su",
+			"Rüzgarlık",
+			"Kaymaz taban"
+		],
+		rules: ["Türbe adabı.", "Yamaçtan kısayol kaygan, resmi yolu kullanın."]
+	},
+	{
+		id: "trek-kisirkaya",
+		name: "Rumeli Feneri – Kısırkaya",
+		category: "yuruyus",
+		district: "Sarıyer",
+		side: "avrupa",
+		trailKind: "sahil",
+		trailKm: 9,
+		summary: "Karadeniz falez ve köy plajı. Poyraz, açık ufuk, Avrupa yakasının en ‘dış’ yürüyüşü. Yaz rüzgarı serinletir, kış döver.",
+		description: "Rumeli Feneri köyünden Kısırkaya’ya sahil ve yamaç patikası. Fener, Ceneviz kalesi kalıntısı, açık deniz. Zemin karışık: köy yolu, çimen, kayalık. Sis ve poyraz gerçek risk; fırtınada falez kenarına yaklaşmayın. Toplu taşım Sarıyer–Rumelifeneri minibüs. Dönüş aynı hatta veya Kısırkaya’dan. Yaz plajı ayrı kalabalık, parkur sakin kalır.",
+		highlights: [
+			"Rumeli Feneri",
+			"Falez",
+			"Kısırkaya plajı",
+			"Poyraz"
+		],
+		hours: "Gündüz. Kış erken karanlık.",
+		fee: "Ücretsiz. Plaj işletmesi yazın ayrı.",
+		transport: "Sarıyer’den Rumelifeneri minibüs. Araçla sahil yolu.",
+		address: "Rumeli Feneri, Sarıyer",
+		lat: 41.234,
+		lng: 29.114,
+		tags: [
+			"kısırkaya",
+			"fener",
+			"karadeniz",
+			"trekking"
+		],
+		image: "/images/trek-kisirkaya.jpg",
+		distanceKm: 30,
+		duration: "9 km · 3 sa",
+		seasons: ["yaz", "dort-mevsim"],
+		facilities: ["yuruyus", "plaj"],
+		difficulty: "orta",
+		terrain: "Sahil yamacı, rüzgarlı açık arazi",
+		elevation: "0–80 m",
+		bestTime: "Mayıs–Haziran, Eylül",
+		tips: [
+			"Fırtına ve sis uyarısına bakın.",
+			"Falez kenarında selfie basamağı yok.",
+			"Su köyde; parkurda çeşme yok."
+		],
+		packing: [
+			"Rüzgarlık",
+			"2 L su",
+			"Şapka",
+			"Offline harita"
+		],
+		rules: ["Falezden inmeyin.", "Özel tarlaya girmeyin."]
+	},
+	{
+		id: "trek-ataturk",
+		name: "Atatürk Kent Ormanı",
+		category: "yuruyus",
+		district: "Başakşehir",
+		side: "avrupa",
+		trailKind: "kent",
+		trailKm: 5,
+		summary: "Üç göletli kent ormanı halkası. Metroya yakın, düz, çocuklu ve koşu için. ‘Trekking’ değil ama İstanbul’un en kullanılan 5 km’si.",
+		description: "Başakşehir’de İBB kent ormanı. Göletler, geniş yol, wc ve kafe. 5 km işaretli döngü; uzatınca 8–10. Eğim yok denecek kadar az. Hafta sonu tam; hafta içi sabah sakin. Gerçek orman sessizliği arayan Belgrad’a gitsin — burası şehir içi nefes. Dört mevsim, kış çamur az (stabilize yol).",
+		highlights: [
+			"Üç gölet",
+			"İşaretli 5 km",
+			"Metro yakın"
+		],
+		hours: "Park saatleri; akşam aydınlatma kısmi.",
+		fee: "Ücretsiz.",
+		transport: "M3 / metrobüs + kısa otobüs. Araçla otopark var.",
+		address: "Atatürk Kent Ormanı, Başakşehir",
+		lat: 41.092,
+		lng: 28.788,
+		tags: [
+			"başakşehir",
+			"gölet",
+			"kent ormanı",
+			"kolay"
+		],
+		image: "/images/trek-ataturk.jpg",
+		distanceKm: 18,
+		duration: "5 km · 1,5 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"yuruyus",
+			"orman",
+			"gol",
+			"wc"
+		],
+		difficulty: "kolay",
+		terrain: "Stabilize orman yolu",
+		elevation: "30–50 m",
+		bestTime: "Yıl boyu; yaz erken saat",
+		tips: ["Hafta sonu piknik alanını değil gölet halkasını yürüyün.", "Köpek çok; tasma kuralı gevşek."],
+		packing: ["Su", "Koşu ayakkabısı"],
+		rules: ["Gölete girmeyin.", "Mangal yalnızca izinli yer."]
+	},
+	{
+		id: "trek-camlica",
+		name: "Çamlıca sırtı",
+		category: "yuruyus",
+		district: "Üsküdar",
+		side: "asya",
+		trailKind: "kent",
+		trailKm: 6,
+		summary: "Büyük ve Küçük Çamlıca arasında çam ve manzara. Kısa, kente gömülü, gün batımı için. İlk yürüyüş veya ısınma parkuru.",
+		description: "Anadolu yakasının klasik bakı noktası. Camii ve teras kalabalık; asıl yürüyüş Küçük Çamlıca korusu ve sırt yolları. 4–6 km, eğim orta. Boğaz köprüleri ve yarımada bakışı. Hafta sonu tur otobüsü; hafta içi akşam yerli. ‘Doğa’ değil kent korusu — yine de İstanbul’da en çok çıkılan tepe.",
+		highlights: [
+			"Boğaz bakışı",
+			"Küçük Çamlıca korusu",
+			"Gün batımı"
+		],
+		hours: "Koru gündüz ve akşam.",
+		fee: "Koru ücretsiz. Teras/kafe ayrı.",
+		transport: "Üsküdar metro + 14 / 15 Çamlıca. Kısıtlı otopark.",
+		address: "Büyük Çamlıca, Üsküdar",
+		lat: 41.027,
+		lng: 29.07,
+		tags: [
+			"çamlıca",
+			"manzara",
+			"kent",
+			"kolay"
+		],
+		image: "/images/trek-camlica.jpg",
+		distanceKm: 8,
+		duration: "6 km · 1,5–2 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"yuruyus",
+			"orman",
+			"market"
+		],
+		difficulty: "kolay",
+		terrain: "Koru yolu ve kaldırım",
+		elevation: "180–268 m",
+		bestTime: "Eylül–Kasım gün batımı",
+		tips: ["Teras kuyruğuna girmeden koru tarafını yürüyün.", "Hafta sonu otopark işkence; toplu taşım."],
+		packing: ["Su", "Rüzgarlık (tepe)"],
+		rules: ["Koruda ateş yok."]
+	},
+	{
+		id: "trek-ballikayalar",
+		name: "Ballıkayalar kanyonu",
+		category: "yuruyus",
+		district: "Gebze",
+		side: "yakin",
+		trailKind: "kanyon",
+		trailKm: 7,
+		summary: "Kireçtaşı kanyon, dere geçişi, tırmanış duvarları. İstanbul’a 1 saat; parkurun en ‘arazi’ hali. Yağmurda girmeyin.",
+		description: "Gebze tabiat parkı. Kanyon tabanı yürüyüşü 6–8 km; kaygan taş, yer yer dere içi. Spor tırmanış duvarları hafta sonu dolar. Yaz öğleni bunaltıcı, kış gölge ve buz. Sel riski gerçek — yağmur sonrası 24 saat bekleyin. Resmi giriş, wc dönemsel. Kaymaz taban şart, koşu ayakkabısı değil.",
+		highlights: [
+			"Kanyon tabanı",
+			"Dere",
+			"Tırmanış duvarı"
+		],
+		hours: "Park giriş saatleri.",
+		fee: "Tabiat parkı girişi.",
+		transport: "O-4 Gebze çıkışı. Toplu taşım zayıf, araç neredeyse şart.",
+		address: "Ballıkayalar Tabiat Parkı, Gebze",
+		lat: 40.836,
+		lng: 29.515,
+		tags: [
+			"ballıkayalar",
+			"kanyon",
+			"trekking",
+			"gebze"
+		],
+		image: "/images/camp-forest.jpg",
+		distanceKm: 65,
+		duration: "7 km · 3 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"yuruyus",
+			"orman",
+			"nehir",
+			"wc",
+			"ates-yasak"
+		],
+		difficulty: "orta",
+		terrain: "Kayalık kanyon, ıslak taş",
+		elevation: "80–250 m · +170 m",
+		bestTime: "Nisan–Haziran, Eylül–Ekim",
+		tips: [
+			"Yağmurda iptal edin; kanyon sel toplar.",
+			"Tırmanışçı kalabalığı hafta sonu 10:00’da.",
+			"Kask tırmanışta; yürüyüşçüye de düşen taş."
+		],
+		packing: [
+			"Kaymaz taban",
+			"Yedek çorap",
+			"İlk yardım",
+			"Kafa lambası"
+		],
+		rules: ["Dereye sabun yok.", "Park tırmanış kuralı."]
+	},
+	{
+		id: "trek-incegiz",
+		name: "İnceğiz mağaraları",
+		category: "yuruyus",
+		district: "Çatalca",
+		side: "avrupa",
+		trailKind: "kanyon",
+		trailKm: 8,
+		summary: "Trakya vadisi, kayaya oyulmuş odalar, taş köprü, dere. İstanbul il sınırı içinde ‘Kapadokya hissi’. Araçlı gün.",
+		description: "Çatalca İnceğiz köyü. Kayanın yüzüne oyulmuş çok katlı mağara odaları, aşağıda dere ve kemer köprü. Yürüyüş vadi tabanı + yamaç 7–9 km. Zemin karışık, korkuluk yok; çocukluysa kısa tutulur. Yazın açık, kış çamur. Köyde market sınırlı. Mağara içi fener ister, tek başına dar bacalara girmeyin.",
+		highlights: [
+			"Kaya odaları",
+			"Dere ve köprü",
+			"Trakya vadisi"
+		],
+		hours: "Gündüz. Köy açık.",
+		fee: "Açık alan; dönemsel işletme.",
+		transport: "Çatalca otobüs + yerel dolmuş veya araç. Taksim’den ~1 sa 30 dk.",
+		address: "İnceğiz, Çatalca",
+		lat: 41.183,
+		lng: 28.402,
+		tags: [
+			"inceğiz",
+			"mağara",
+			"çatalca",
+			"trekking"
+		],
+		image: "/images/trek-incegiz.jpg",
+		distanceKm: 55,
+		duration: "8 km · 3 sa",
+		seasons: ["dort-mevsim"],
+		facilities: ["yuruyus", "nehir"],
+		difficulty: "orta",
+		terrain: "Vadi, kayalık basamak",
+		elevation: "50–140 m",
+		bestTime: "Nisan–Haziran, Eylül–Ekim",
+		tips: [
+			"Mağara içinde kafa lambası.",
+			"Korkuluk yok; ıslak basamak.",
+			"Köy kahvesi nakit."
+		],
+		packing: [
+			"Kafa lambası",
+			"Kaymaz taban",
+			"Nakit",
+			"Su"
+		],
+		rules: ["Mağaraya isim kazımayın.", "Özel tarlaya çadır yok."]
+	},
+	{
+		id: "trek-sile",
+		name: "Şile Feneri – sahil",
+		category: "yuruyus",
+		district: "Şile",
+		side: "asya",
+		trailKind: "sahil",
+		trailKm: 10,
+		summary: "Kara fener, falez ve çam. Şile çarşısından fener burnuna, uzatınca İmrenli. Karadeniz’in Anadolu yakası klasikleri.",
+		description: "Şile merkez, Osmanlı kalesi kayalığı ve 1859 feneri. Sahil + çam içi 8–12 km. Poyraz, dalga ve kaygan çimen. Ağva’ya kadar ‘tek parkur’ diye yola çıkmayın — 30 km’yi aşar, lojistik ayrı gün. Bu kart fener–sahil halkası. Yaz plaj kalabalığı merkezde; fener tarafı yürüyüşçü kalır.",
+		highlights: [
+			"Şile Feneri",
+			"Falez",
+			"Çam + deniz"
+		],
+		hours: "Gündüz. Fener içi dönemsel açık.",
+		fee: "Sahil ücretsiz. Fener müzesi ayrı olabilir.",
+		transport: "Üsküdar–Şile otobüs (~1,5–2 sa). Hafta sonu dolu.",
+		address: "Şile Feneri, Şile",
+		lat: 41.175,
+		lng: 29.615,
+		tags: [
+			"şile",
+			"fener",
+			"karadeniz",
+			"trekking"
+		],
+		image: "/images/trek-sile.jpg",
+		distanceKm: 70,
+		duration: "10 km · 3–3,5 sa",
+		seasons: ["yaz", "dort-mevsim"],
+		facilities: [
+			"yuruyus",
+			"plaj",
+			"market",
+			"orman"
+		],
+		difficulty: "orta",
+		terrain: "Falez çimeni, çam patika, kayalık",
+		elevation: "0–90 m",
+		bestTime: "Mayıs–Haziran, Eylül",
+		tips: [
+			"Falez kenarı ıslak çimen kayar.",
+			"Ağva’yı aynı güne eklemeyin.",
+			"Poyrazda rüzgarlık, yaz da."
+		],
+		packing: [
+			"Rüzgarlık",
+			"2 L su",
+			"Şapka"
+		],
+		rules: ["Falezden atlamayın.", "Yangın sezonunda ateş yok."]
+	},
+	{
+		id: "trek-riva",
+		name: "Riva – Poyrazköy",
+		category: "yuruyus",
+		district: "Beykoz",
+		side: "asya",
+		trailKind: "sahil",
+		trailKm: 8,
+		summary: "Dere ağzı, plaj ve Anadolu Karadeniz köyleri. Polonezköy’den sonra aynı günde sahile inmek isteyenlerin hattı.",
+		description: "Riva deresi denize kavuşur; köy, plaj, ardından Poyrazköy yönü yamaç. 7–10 km, orta. Yaz günübirlik kalabalık, omuz mevsim sakin. Dere yatağına parkur sanmayın — sel. Market Riva’da var. Anadolu Kavağı ile birleştirmek araç veya uzun ek yürüyüş ister; ayrı durak gibi düşünün.",
+		highlights: [
+			"Dere ağzı",
+			"Köy plajı",
+			"Karadeniz yamacı"
+		],
+		hours: "Gündüz.",
+		fee: "Plaj işletmesi yazın ücretli olabilir.",
+		transport: "Beykoz–Riva dolmuş. Araçla Kavacık sonrası ~40 dk.",
+		address: "Riva, Beykoz",
+		lat: 41.136,
+		lng: 29.215,
+		tags: [
+			"riva",
+			"poyrazköy",
+			"sahil",
+			"trekking"
+		],
+		image: "/images/sile-coast.jpg",
+		distanceKm: 40,
+		duration: "8 km · 2,5–3 sa",
+		seasons: ["yaz", "dort-mevsim"],
+		facilities: [
+			"yuruyus",
+			"plaj",
+			"nehir",
+			"market"
+		],
+		difficulty: "orta",
+		terrain: "Kum, köy yolu, yamaç",
+		elevation: "0–70 m",
+		bestTime: "Haziran–Eylül hafta içi",
+		tips: [
+			"Hafta sonu otopark dolu.",
+			"Dere akıntısı.",
+			"Polonezköy ile aynı güne sığar ama tempo yüksek."
+		],
+		packing: [
+			"Su",
+			"Sandık veya kaymaz taban",
+			"Güneş kremi"
+		],
+		rules: ["Dere yatağında yürümeyin.", "Özel plaj telini aşmayın."]
+	},
+	{
+		id: "trek-fatih-orman",
+		name: "Fatih Ormanı – Kayışdağı",
+		category: "yuruyus",
+		district: "Ataşehir / Ümraniye",
+		side: "asya",
+		trailKind: "orman",
+		trailKm: 7,
+		summary: "Kent içi çam, koşu ve mesire. Aydos kadar zirve yok; metroya yakın nefes. Hafta içi sabah yerlilerin parkuru.",
+		description: "Kayışdağı etekleri ve Fatih (İstanbul) Ormanı. 6–8 km halkalar, çam, yer yer dik. Aydos’a gitmeden Anadolu yakasında orman isteyenler. Hafta sonu piknik, hafta içi koşu. Tabela karışık; ilk seferde ana yolu bırakmayın. Çeşme dönemsel.",
+		highlights: [
+			"Çam gölgesi",
+			"Kent içi",
+			"Koşu halkası"
+		],
+		hours: "Gündüz.",
+		fee: "Ücretsiz.",
+		transport: "M4 / metrobüs + kısa otobüs. Ataşehir tarafından araç kolay.",
+		address: "Fatih Ormanı, Ümraniye–Ataşehir",
+		lat: 40.98,
+		lng: 29.155,
+		tags: [
+			"fatih ormanı",
+			"kayışdağı",
+			"kent ormanı",
+			"trekking"
+		],
+		image: "/images/trek-pine.jpg",
+		distanceKm: 16,
+		duration: "7 km · 2 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"yuruyus",
+			"orman",
+			"ates-yasak"
+		],
+		difficulty: "kolay",
+		terrain: "Çam ormanı yolu",
+		elevation: "120–310 m",
+		bestTime: "Ekim, Nisan",
+		tips: ["Su alın.", "Hafta sonu mangal dumanı; erken çıkın."],
+		packing: ["Su", "Koşu veya yürüyüş ayakkabısı"],
+		rules: ["İzinsiz çadır yok.", "Ateş yasak dönemleri."]
+	},
+	{
+		id: "trek-terkos",
+		name: "Terkos kıyı yürüyüşü",
+		category: "yuruyus",
+		district: "Arnavutköy",
+		side: "avrupa",
+		trailKind: "sahil",
+		trailKm: 10,
+		summary: "İçme suyu gölü + Karadeniz kumu. Kuş, rüzgar, açık ufuk. Parkur işaretli değil; havza kuralı var, rastgele çadır yok.",
+		description: "Durusu (Terkos) gölü kıyısı ve Karaburun yönü kumul. 8–12 km, rüzgar sürekli. Kuş göçü ilkbahar ve sonbahar. Zemin kum ve çimen, gölge yok. İçme suyu havzası: göle girmek, kirletmek, izinsiz ateş yasak. Kamp kartındaki Terkos’tan farkı — bu yürüyüş; geceleme yok.",
+		highlights: [
+			"Kuş",
+			"Göl + deniz",
+			"Açık ufuk"
+		],
+		hours: "Gündüz.",
+		fee: "Açık arazi; tesis varsa ayrı.",
+		transport: "Arnavutköy–Durusu. TEM’den ~1 sa.",
+		address: "Durusu, Arnavutköy",
+		lat: 41.322,
+		lng: 28.607,
+		tags: [
+			"terkos",
+			"durusu",
+			"kuş",
+			"trekking"
+		],
+		image: "/images/camp-lake.jpg",
+		distanceKm: 48,
+		duration: "10 km · 3 sa",
+		seasons: ["dort-mevsim"],
+		facilities: [
+			"yuruyus",
+			"gol",
+			"ates-yasak"
+		],
+		difficulty: "orta",
+		terrain: "Kum, çimen, rüzgarlı açık",
+		elevation: "0–30 m",
+		bestTime: "Eylül–Kasım, Mart–Mayıs",
+		tips: [
+			"Gölge yok; yaz öğleni değil.",
+			"Dürbün.",
+			"Rüzgar kazığı piknikte bile."
+		],
+		packing: [
+			"Rüzgarlık",
+			"2 L su",
+			"Şapka",
+			"Dürbün"
+		],
+		rules: ["Göle girmek yasak.", "İzinsiz ateş ve çadır cezalı."]
+	}
+];
+function featuredTrails(limit = 3) {
+	return [
+		"trek-bentler",
+		"trek-aydos",
+		"trek-buyukada",
+		"trek-yusa",
+		"trek-kisirkaya"
+	].map((id) => TREK_PLACES.find((p) => p.id === id)).filter((p) => p != null).slice(0, limit);
+}
+var PLACES = [
+	...[
+		{
+			id: "topkapi",
+			name: "Topkapı Sarayı",
+			category: "muze",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Osmanlı",
+			summary: "Fatih'ten Abdülmecid'e kadar padişahların oturduğu saray; hazine, harem ve Boğaz terası.",
+			description: "1459'dan 19. yüzyıla kadar Osmanlı'nın idare merkezi. Dört avlulu plan, Çinili Köşk, Hazine Dairesi ve Harem ayrı biletlerle gezilir. Gülhane ile aynı yarımadada olduğu için Ayasofya ve Arkeoloji Müzeleriyle aynı güne sığar; Harem'i atlamayın, asıl hikâye orada.",
+			highlights: [
+				"Harem daireleri",
+				"Kutsal Emanetler",
+				"Hazine ve kaşıkçı elması",
+				"Sarayburnu terası"
+			],
+			hours: "Genelde 09:00–18:00; Harem ayrı saatlenebilir. Resmi siteyi kontrol edin.",
+			fee: "Ücretli. Harem ayrı bilet. Müzekart kapsamı değişebilir.",
+			transport: "Tramvay T1: Sultanahmet veya Gülhane. Yürüyerek 8–12 dk.",
+			address: "Cankurtaran, 34122 Fatih",
+			lat: 41.0115,
+			lng: 28.9833,
+			tags: [
+				"saray",
+				"osmanlı",
+				"harem",
+				"müze"
+			],
+			image: "/images/palace.jpg",
+			distanceKm: 6,
+			duration: "Merkezden 25 dk",
+			tips: [
+				"Salı kapalı dönemleri olmuştur; gitmeden bakın.",
+				"Hazine kuyruğu öğleden sonra uzar.",
+				"Yazın avlular gölgesiz; şapka alın."
+			]
+		},
+		{
+			id: "arkeoloji",
+			name: "İstanbul Arkeoloji Müzeleri",
+			category: "muze",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Çok katmanlı",
+			summary: "İskender Lahdi'nden çivi yazılı tabletlere, şehrin arkeolojik belleği.",
+			description: "Osman Hamdi Bey'in kurduğu kompleks üç binadan oluşur: Ana müze, Eski Şark Eserleri ve Çinili Köşk. İskender Lahdi, Kadeş Antlaşması tableti ve İstanbul'un kendi kazı buluntuları burada. Topkapı bahçesinden girilir; kalabalık Sultanahmet'e göre sakin kalır.",
+			highlights: [
+				"İskender Lahdi",
+				"Kadeş Antlaşması",
+				"Çinili Köşk",
+				"İstanbul'un arkeolojisi"
+			],
+			hours: "Genelde 09:00–17:30, pazartesi kapalı olabilir.",
+			fee: "Ücretli. Müzekart çoğu zaman geçerli.",
+			transport: "T1 Gülhane; Topkapı birinci avlusundan yaya.",
+			address: "Osman Hamdi Bey Yokuşu, Gülhane",
+			lat: 41.0112,
+			lng: 28.9814,
+			tags: [
+				"arkeoloji",
+				"lahit",
+				"osman hamdi"
+			],
+			image: "/images/museum-interior.jpg",
+			distanceKm: 6,
+			duration: "Merkezden 25 dk",
+			tips: ["Çinili Köşk'ü atlamayın.", "Öğle sıcağında serin ve loş bir durak."]
+		},
+		{
+			id: "pera",
+			name: "Pera Müzesi",
+			category: "muze",
+			district: "Beyoğlu",
+			side: "avrupa",
+			era: "Geç Osmanlı / Cumhuriyet",
+			summary: "Kaplumbağa Terbiyecisi, oryantalist resim ve dönemsel çağdaş sergiler.",
+			description: "Tepebaşı'nda eski Bristol Oteli'nde. Osman Hamdi'nin Kaplumbağa Terbiyecisi daimi koleksiyonda. Üst katlar ağırlıkla dönemsel; kahve ölçüm aletleri ve Anadolu ağırlıkları da var. İstiklal kalabalığından üç sokak içeride, iklimlendirmesi iyi bir öğleden sonra durağı.",
+			highlights: [
+				"Kaplumbağa Terbiyecisi",
+				"Oryantalist resim",
+				"Anadolu ağırlık ve ölçüler",
+				"Pera Cafe"
+			],
+			hours: "Genelde 10:00–19:00; pazartesi kapalı.",
+			fee: "Ücretli. Öğrenci ve çarşamba indirimleri olabilir.",
+			transport: "Tünel veya T2; Meşrutiyet Caddesi.",
+			address: "Meşrutiyet Cd. No:65, Tepebaşı",
+			lat: 41.0319,
+			lng: 28.9751,
+			tags: [
+				"resim",
+				"pera",
+				"oryantalizm"
+			],
+			image: "/images/museum-interior.jpg",
+			distanceKm: 3,
+			duration: "Taksim'den 12 dk",
+			tips: ["Kaplumbağa Terbiyecisi fotoğrafı genelde yasak.", "Üst kat sergisini kontrol edin."]
+		},
+		{
+			id: "istanbul-modern",
+			name: "İstanbul Modern",
+			category: "muze",
+			district: "Beyoğlu",
+			side: "avrupa",
+			era: "Çağdaş",
+			summary: "Galataport'ta çağdaş sanat, Boğaz manzaralı teras ve sinema.",
+			description: "Türkiye'nin ilk çağdaş sanat müzesi, Karaköy rıhtımındaki yeni binasında. Daimi koleksiyon 20. ve 21. yüzyıl Türk ve uluslararası işlerden oluşur. Teras restoranı ve tasarım mağazası var. Yağmurlu günde Galata–Karaköy hattına bağlanır.",
+			highlights: [
+				"Çağdaş koleksiyon",
+				"Boğaz terası",
+				"Dönemsel büyük sergiler"
+			],
+			hours: "Genelde 10:00–18:00; pazartesi kapalı.",
+			fee: "Ücretli.",
+			transport: "T1 Karaköy; Tophane durağından yaya. Vapur: Karaköy iskelesi.",
+			address: "Kılıç Ali Paşa Mah., Tophane",
+			lat: 41.0264,
+			lng: 28.983,
+			tags: [
+				"çağdaş",
+				"galataport",
+				"sanat"
+			],
+			image: "/images/istanbul-modern.jpg",
+			distanceKm: 4,
+			duration: "Taksim'den 20 dk",
+			tips: ["Kombine gün: Galata Kulesi + Modern + Tophane nargile değil, nargile yok; kahve var."]
+		},
+		{
+			id: "rahmi-koc",
+			name: "Rahmi M. Koç Müzesi",
+			category: "muze",
+			district: "Beyoğlu",
+			side: "avrupa",
+			era: "Sanayi",
+			summary: "Haliç kıyısında uçak, denizaltı, otomobil ve oyuncak; çocuklu aileler için en dolu müze.",
+			description: "Hasköy'de eski tekel binası ve tersane arazisinde. Kara, deniz, hava ve iletişim koleksiyonları. Gerçek denizaltı ve uçaklar açık alanda. Hafta sonu atölyeleri olur. Haliç kıyısı pikniğe de elverişli.",
+			highlights: [
+				"Denizaltı",
+				"Klasik otomobiller",
+				"Oyuncak koleksiyonu",
+				"Haliç kıyısı"
+			],
+			hours: "Genelde 10:00–17:00; pazartesi kapalı.",
+			fee: "Ücretli. Çocuk biletleri ayrı.",
+			transport: "Haliç vapuru veya otobüs: Hasköy. Arabayla otopark var.",
+			address: "Hasköy Cd. No:5, Beyoğlu",
+			lat: 41.0425,
+			lng: 28.9494,
+			tags: [
+				"sanayi",
+				"aile",
+				"haliç"
+			],
+			image: "/images/rahmi-koc.jpg",
+			distanceKm: 7,
+			duration: "Taksim'den 25 dk",
+			tips: ["Denizaltı içi dar ve sıcak olabilir.", "Açık alan için rüzgarlık alın."]
+		},
+		{
+			id: "dolmabahce",
+			name: "Dolmabahçe Sarayı",
+			category: "muze",
+			district: "Beşiktaş",
+			side: "avrupa",
+			era: "Geç Osmanlı",
+			summary: "Boğaz'a bakan 19. yüzyıl sarayı; kristal merdiven, selamlık ve harem turu.",
+			description: "Abdülmecid'in Taşkışla dolgusuna yaptırdığı Batı üslubu saray. Milli Saraylar yönetiminde, rehberli güzergahla gezilir. Atatürk'ün son günlerini geçirdiği oda ziyaret edilir. Bahçe ve saat kulesi ücretsiz dışarıdan görülür.",
+			highlights: [
+				"Kristal merdiven",
+				"Selamlık muayede salonu",
+				"Harem",
+				"Saat kulesi"
+			],
+			hours: "Milli Saraylar saatleri; genelde pazartesi kapalı.",
+			fee: "Ücretli, bölüm biletleri ayrı olabilir.",
+			transport: "Kabataş tramvay/vapur; Beşiktaş'tan sahil yürüyüşü 10 dk.",
+			address: "Vişnezade, Beşiktaş",
+			lat: 41.0391,
+			lng: 29.0003,
+			tags: [
+				"saray",
+				"boğaz",
+				"milli saraylar"
+			],
+			image: "/images/palace.jpg",
+			distanceKm: 5,
+			duration: "Taksim'den 20 dk",
+			tips: ["Ayakkabı galoşu verilir.", "Fotoğraf kuralları salona göre değişir."]
+		},
+		{
+			id: "sakip-sabanci",
+			name: "Sakıp Sabancı Müzesi",
+			category: "muze",
+			district: "Sarıyer",
+			side: "avrupa",
+			era: "Çağdaş / hat",
+			summary: "Emirgan'da Boğaz yalısında hat koleksiyonu ve büyük dönemsel sergiler.",
+			description: "Atlı Köşk'te Sabancı ailesinin bağışı. Hat ve berat koleksiyonu daimi; uluslararası resim ve arkeoloji sergileri bahçeyi doldurur. Emirgan Korusu ile aynı durakta: sergi + koru yürüyüşü.",
+			highlights: [
+				"Hat koleksiyonu",
+				"Boğaz bahçesi",
+				"Büyük dönemsel sergiler"
+			],
+			hours: "Genelde 10:00–18:00; pazartesi kapalı.",
+			fee: "Ücretli. Öğrenci indirimi olur.",
+			transport: "40, 40T, 42T Emirgan. Sarıyer minibüsü.",
+			address: "Sakıp Sabancı Cd. No:42, Emirgan",
+			lat: 41.105,
+			lng: 29.056,
+			tags: [
+				"hat",
+				"emirgan",
+				"sergi"
+			],
+			image: "/images/palace.jpg",
+			distanceKm: 14,
+			duration: "Taksim'den 40 dk",
+			tips: ["Sergi değişir; gitmeden bakın.", "Koruya giriş ayrı, ücretsiz."]
+		},
+		{
+			id: "askeri",
+			name: "Askeri Müze",
+			category: "muze",
+			district: "Şişli",
+			side: "avrupa",
+			era: "Osmanlı / Cumhuriyet",
+			summary: "Harbiye'de silah, çadır ve Mehmetçik tarihi; öğleden sonra Mehter.",
+			description: "Osmanlı çadırları, kılıçlar, Kurtuluş Savaşı salonu. Haftanın belirli günlerinde Mehter konseri avluda olur. Harbiye–Osmanbey arasında, Nişantaşı yürüyüşüne bağlanır.",
+			highlights: [
+				"Osmanlı çadırları",
+				"Mehter",
+				"Kurtuluş Savaşı salonu"
+			],
+			hours: "Genelde 09:00–17:00; bazı günler kapalı.",
+			fee: "Ücretli.",
+			transport: "M2 Osmanbey; Harbiye yönü yaya.",
+			address: "Vali Konağı Cd., Harbiye",
+			lat: 41.0478,
+			lng: 28.988,
+			tags: [
+				"askerî",
+				"mehter",
+				"harbiye"
+			],
+			image: "/images/museum-interior.jpg",
+			distanceKm: 3,
+			duration: "Taksim'den 15 dk",
+			tips: ["Mehter saatini kapıdaki duyurudan alın."]
+		},
+		{
+			id: "deniz-muzesi",
+			name: "İstanbul Deniz Müzesi",
+			category: "muze",
+			district: "Beşiktaş",
+			side: "avrupa",
+			era: "Osmanlı donanması",
+			summary: "Beşiktaş iskelesinin yanında saltanat kayıkları ve donanma tarihi.",
+			description: "Dünyanın en büyük ahşap saltanat kayığı koleksiyonlarından biri. Çıkarma botları, haritalar, Atatürk'ün piyadesi. Beşiktaş çarşısı ve vapur iskelesine bitişik; kısa bir ziyaret için ideal.",
+			highlights: [
+				"Saltanat kayıkları",
+				"Donanma arşivi",
+				"Beşiktaş iskelesi"
+			],
+			hours: "Genelde 09:00–17:00; pazartesi kapalı.",
+			fee: "Ücretli.",
+			transport: "Beşiktaş vapur, metrobüs Söğütlüçeşme+vapur, otobüs.",
+			address: "Sinan Paşa Mah., Beşiktaş",
+			lat: 41.0417,
+			lng: 29.006,
+			tags: [
+				"deniz",
+				"kayık",
+				"beşiktaş"
+			],
+			image: "/images/palace.jpg",
+			distanceKm: 5,
+			duration: "Taksim'den 20 dk",
+			tips: ["Dolmabahçe ile aynı güne sığar."]
+		},
+		{
+			id: "mozaik",
+			name: "Büyük Saray Mozaikleri",
+			category: "muze",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Bizans",
+			summary: "Sultanahmet Camii yanında, 6. yüzyıl yer mozaikleri: av sahneleri ve mitoloji.",
+			description: "Justinianus döneminden kalma saray tabanı. Küçük, serin, kalabalıktan uzak. Avlanan avcılar, grifonlar, günlük hayat sahneleri. Ayasofya–Sultanahmet turunun 30 dakikalık eki.",
+			highlights: [
+				"6. yy mozaik taban",
+				"Av sahneleri",
+				"Kısa ziyaret"
+			],
+			hours: "Genelde 09:00–17:00.",
+			fee: "Ücretli. Müzekart geçerli olabilir.",
+			transport: "T1 Sultanahmet, Arasta Çarşısı içinden.",
+			address: "Arasta Çarşısı, Sultanahmet",
+			lat: 41.0055,
+			lng: 28.9776,
+			tags: [
+				"bizans",
+				"mozaik",
+				"sultanahmet"
+			],
+			image: "/images/cistern.jpg",
+			distanceKm: 7,
+			duration: "Merkezden 25 dk",
+			tips: ["Fotoğrafta flaş yasak.", "Zemin kaygan olabilir."]
+		},
+		{
+			id: "tim",
+			name: "Türk ve İslam Eserleri Müzesi",
+			category: "muze",
+			district: "Fatih",
+			side: "avrupa",
+			era: "İslam sanatları",
+			summary: "İbrahim Paşa Sarayı'nda halı, hat, çini ve Edirnekârî; Atmeydanı'na bakıyor.",
+			description: "16. yüzyıl vezir sarayında. Dünya ölçeğinde halı koleksiyonu, Kur'an el yazmaları, çini ve ahşap. Hipodrom'un tam karşısı; Sultanahmet turunun sakin iç mekanı.",
+			highlights: [
+				"Selçuklu halıları",
+				"Hat koleksiyonu",
+				"Atmeydanı manzarası"
+			],
+			hours: "Genelde 09:00–17:00.",
+			fee: "Ücretli. Müzekart.",
+			transport: "T1 Sultanahmet.",
+			address: "Atmeydanı Sk. No:46, Sultanahmet",
+			lat: 41.0062,
+			lng: 28.9748,
+			tags: [
+				"halı",
+				"hat",
+				"osmanlı"
+			],
+			image: "/images/museum-interior.jpg",
+			distanceKm: 7,
+			duration: "Merkezden 25 dk",
+			tips: ["Halı salonunda ışık düşük; göz alışır."]
+		},
+		{
+			id: "masumiyet",
+			name: "Masumiyet Müzesi",
+			category: "muze",
+			district: "Beyoğlu",
+			side: "avrupa",
+			era: "Cumhuriyet",
+			summary: "Pamuk'un romanından nesneler: Çukurcuma'da bir aşkın arşivi.",
+			description: "Orhan Pamuk'un aynı adlı romanının üç boyutlusu. 1970–80 İstanbul'unun sigara paketleri, belgeler, saç tokaları. Küçük bina, randevusuz da girilir ama öğleden sonra kuyruk olur. Çukurcuma antikacılarıyla aynı sokak.",
+			highlights: [
+				"Roman nesneleri",
+				"Çukurcuma",
+				"Dönem İstanbul'u"
+			],
+			hours: "Genelde 10:00–18:00; pazartesi kapalı.",
+			fee: "Ücretli. Kitabı yanında olanlara indirim dönemi olmuştur.",
+			transport: "Tophane'den yokuş; Galata'dan Cihangir hattı.",
+			address: "Çukurcuma Cd., Firuzağa",
+			lat: 41.0308,
+			lng: 28.9797,
+			tags: [
+				"edebiyat",
+				"pamuk",
+				"çukurcuma"
+			],
+			image: "/images/historic-street.jpg",
+			distanceKm: 4,
+			duration: "Taksim'den 18 dk",
+			tips: ["Dar merdiven; büyük çanta bırakın."]
+		},
+		{
+			id: "panorama-1453",
+			name: "Panorama 1453",
+			category: "muze",
+			district: "Zeytinburnu",
+			side: "avrupa",
+			era: "1453",
+			summary: "Sur dibinde 360 derece fetih panosu; çocuklu aileler için anlatımı net.",
+			description: "Topkapı–Edirnekapı surlarının hemen dışında. Silindirik salonda fetih günü. Yanında minyatür sur maketi. Topkapı tramvayına yakın, tarihi yarımadaya girmeden önce veya sonra.",
+			highlights: [
+				"360° panorama",
+				"Sur kenarı",
+				"Fetih anlatısı"
+			],
+			hours: "Genelde 09:00–17:00.",
+			fee: "Ücretli.",
+			transport: "T1 Topkapı; metrobüs Topkapı.",
+			address: "Merkezefendi, Zeytinburnu",
+			lat: 41.019,
+			lng: 28.9205,
+			tags: [
+				"fetih",
+				"panorama",
+				"sur"
+			],
+			image: "/images/fortress.jpg",
+			distanceKm: 9,
+			duration: "Taksim'den 30 dk",
+			tips: ["Sur yürüyüşüyle birleştirin."]
+		},
+		{
+			id: "aya-irini",
+			name: "Aya İrini",
+			category: "muze",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Bizans",
+			summary: "Ayasofya'nın komşusu, minaresiz büyük kilise; akustik ve çıplak tuğla.",
+			description: "Topkapı birinci avlusunda. İstanbul'un ayakta kalan en eski kiliselerinden. Camiye çevrilmediği için içi sade, tuğla ve boşluk. Konserler için kullanılır; ziyaret saatleri dönemsel açılıp kapanır.",
+			highlights: [
+				"Minaresiz siluet",
+				"Akustik",
+				"Topkapı avlusu"
+			],
+			hours: "Dönemsel. Milli Saraylar / Kültür duyurusuna bakın.",
+			fee: "Ücretli olduğunda ayrı bilet.",
+			transport: "T1 Gülhane; Topkapı girişi.",
+			address: "Topkapı Sarayı birinci avlu",
+			lat: 41.0097,
+			lng: 28.9811,
+			tags: [
+				"bizans",
+				"kilise",
+				"akustik"
+			],
+			image: "/images/mosque.jpg",
+			distanceKm: 6,
+			duration: "Merkezden 25 dk",
+			tips: ["Kapalı günü çok olur; kapıda teyit edin."]
+		},
+		{
+			id: "galata-mevlevi",
+			name: "Galata Mevlevihanesi",
+			category: "muze",
+			district: "Beyoğlu",
+			side: "avrupa",
+			era: "Osmanlı",
+			summary: "Tünel başında Mevlevi tekkesi; sema, hat ve tasavvuf eşyaları.",
+			description: "İstanbul'un en eski mevlevihanesi. Semahane, müzik aletleri, mezarlık bahçesi. Haftanın belirli akşamlarında sema gösterisi olur. Galata Kulesi'ne çıkmadan önceki sakin durak.",
+			highlights: [
+				"Semahane",
+				"Mevlevi koleksiyonu",
+				"Bahçe"
+			],
+			hours: "Genelde 09:00–16:00; sema ayrı bilet.",
+			fee: "Müze ücretli; sema ayrı.",
+			transport: "Tünel üst çıkış, Galip Dede Cd.",
+			address: "Galip Dede Cd. No:15",
+			lat: 41.0258,
+			lng: 28.9744,
+			tags: [
+				"mevlevi",
+				"sema",
+				"galata"
+			],
+			image: "/images/museum-interior.jpg",
+			distanceKm: 3,
+			duration: "Taksim'den 15 dk",
+			tips: ["Sema saatini duyurudan alın; yer sınırlı."]
+		},
+		{
+			id: "resim-heykel",
+			name: "İstanbul Resim ve Heykel",
+			category: "muze",
+			district: "Beyoğlu",
+			side: "avrupa",
+			era: "Cumhuriyet",
+			summary: "Tophane'de Mimar Sinan Üniversitesi koleksiyonu; erken Cumhuriyet resmi.",
+			description: "MSGSÜ'nün tarihi koleksiyonu yeni binasında. Şeker Ahmet Paşa'dan Çallı'ya, heykel salonları. İstanbul Modern'e yürüme mesafesi; aynı günde iki çağdaş/modern durak.",
+			highlights: [
+				"Erken Cumhuriyet resmi",
+				"Heykel salonu",
+				"Tophane"
+			],
+			hours: "Genelde 10:00–18:00; pazartesi kapalı.",
+			fee: "Ücretli.",
+			transport: "T1 Tophane.",
+			address: "Kılıç Ali Paşa, Tophane",
+			lat: 41.0268,
+			lng: 28.9815,
+			tags: [
+				"resim",
+				"heykel",
+				"msgsü"
+			],
+			image: "/images/museum-interior.jpg",
+			distanceKm: 4,
+			duration: "Taksim'den 18 dk",
+			tips: ["Modern ile kombine edin."]
+		},
+		{
+			id: "ayasofya",
+			name: "Ayasofya",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Bizans / Osmanlı",
+			summary: "537'den beri ayakta: kilise, cami, müze, yeniden cami. Şehrin taşı.",
+			description: "Justinianus'un büyük kilisesi, 1453'te cami, 1935'te müze, 2020'de yeniden cami. Mozaikler üst galeride; zemin ibadete açık. Ziyaret kuralları cami protokolüne uyar: omuz-diz kapalı, ayakkabı çıkarılır. Sabah erken veya akşam ezanı sonrası siluet için dışarıda kalın.",
+			highlights: [
+				"Ana kubbe",
+				"Deesis mozaiği",
+				"Osmanlı hat levhaları",
+				"Dış nartheks"
+			],
+			hours: "Cami saatleri; namaz vakitlerinde zemin sınırlı.",
+			fee: "Zemin ibadet alanı ile üst galeri kuralı değişebilir; güncel duyuru.",
+			transport: "T1 Sultanahmet.",
+			address: "Sultan Ahmet Mah., Ayasofya Meydanı",
+			lat: 41.0086,
+			lng: 28.9802,
+			tags: [
+				"bizans",
+				"cami",
+				"kubbe"
+			],
+			image: "/images/hero-city.jpg",
+			distanceKm: 7,
+			duration: "Merkezden 25 dk",
+			tips: [
+				"Üst galeri kuyruğu ayrı olabilir.",
+				"Tripod ve yüksek ses yok.",
+				"Mozaik için öğleden sonra ışık daha yumuşak."
+			]
+		},
+		{
+			id: "sultanahmet",
+			name: "Sultanahmet Camii",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Osmanlı",
+			summary: "Altı minareli 'Mavi Cami'; İznik çinileri ve Hipodrom avlusu.",
+			description: "1609–1616, Sedefkâr Mehmed Ağa. İçeride 20 binden fazla İznik çinisi. Turist yoğunluğu Ayasofya kadar; namaz vakitlerini boş bırakın. Avludan Ayasofya ile bakışır. Hipodrom dikilitaşları hemen önünde.",
+			highlights: [
+				"İznik çinileri",
+				"Altı minare",
+				"Şadırvan avlusu"
+			],
+			hours: "Namaz vakitleri dışında ziyaret.",
+			fee: "Ücretsiz. Bağış kutusu var.",
+			transport: "T1 Sultanahmet.",
+			address: "Atmeydanı, Sultanahmet",
+			lat: 41.0054,
+			lng: 28.9768,
+			tags: [
+				"cami",
+				"çini",
+				"osmanlı"
+			],
+			image: "/images/mosque.jpg",
+			distanceKm: 7,
+			duration: "Merkezden 25 dk",
+			tips: ["Kadınlar için atkı kapıda verilir.", "İçeride yere oturulmaz, seccade kenarı."]
+		},
+		{
+			id: "suleymaniye",
+			name: "Süleymaniye Camii",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Osmanlı",
+			summary: "Sinan'ın payitahttaki büyük işi; külliye, türbe ve Haliç silueti.",
+			description: "1550–57. Külliyede imarethane, medrese, hamam, Süleyman ve Hürrem türbeleri. İçerisi Sultanahmet'ten sakin, oranlar daha sade. Arka terastan Haliç ve Boğaz. Kanuni'nin külliye mutfağı bugün restoran.",
+			highlights: [
+				"Mimar Sinan",
+				"Külliye avluları",
+				"Haliç terası",
+				"Türbeler"
+			],
+			hours: "Namaz vakitleri dışında.",
+			fee: "Cami ücretsiz. Türbe ayrı kuralda olabilir.",
+			transport: "T1 Beyazıt veya Eminönü; yokuş yukarı 10 dk.",
+			address: "Süleymaniye Mah., Fatih",
+			lat: 41.0161,
+			lng: 28.964,
+			tags: [
+				"sinan",
+				"külliye",
+				"haliç"
+			],
+			image: "/images/suleymaniye.jpg",
+			distanceKm: 6,
+			duration: "Eminönü'nden 12 dk",
+			tips: ["Gün batımı terası dolu olur.", "Arka mezarlıkta Sinan'ın mezarı var."]
+		},
+		{
+			id: "yerebatan",
+			name: "Yerebatan Sarnıcı",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Bizans",
+			summary: "336 sütun, sakin su ve Medusa başı. Yarımadanın yeraltı salonu.",
+			description: "Justinianus'un şehre su depoladığı sarnıç. Restorasyon sonrası yürüyüş platformu ve ışık düzeni yenilendi. Medusa başları ters ve yan; Roma spolia. Yazın serin, kışın nemli. Bilet kuyruğu öğleden sonra uzar; online bakın.",
+			highlights: [
+				"Medusa başları",
+				"336 sütun",
+				"Su yansıması"
+			],
+			hours: "Genelde 09:00–18:30, sezon uzar.",
+			fee: "Ücretli. Müzekart kapsamı değişebilir.",
+			transport: "T1 Sultanahmet, Ayasofya'nın batısı.",
+			address: "Alemdar Mah., Yerebatan Cd.",
+			lat: 41.0084,
+			lng: 28.9779,
+			tags: [
+				"sarnıç",
+				"bizans",
+				"medusa"
+			],
+			image: "/images/cistern.jpg",
+			distanceKm: 7,
+			duration: "Merkezden 25 dk",
+			tips: ["Zemin ıslak; kaymaz taban.", "Tripod yasak dönemleri olur."]
+		},
+		{
+			id: "galata-kulesi",
+			name: "Galata Kulesi",
+			category: "tarihi",
+			district: "Beyoğlu",
+			side: "avrupa",
+			era: "Ceneviz / Osmanlı",
+			summary: "Karaköy sırtında 14. yüzyıl kulesi; 360 derece İstanbul.",
+			description: "Cenevizlilerin Christea Turris'i, sonra yangın kulesi, şimdi müze-seyir. Asansör + son merdiven. Kuzeyde Boğaz, güneyde yarımada. Akşam bileti daha pahalı ve romantik; gündüz siluet daha net. Aşağıda sergiler kısa.",
+			highlights: [
+				"360° teras",
+				"Ceneviz duvar izi",
+				"Galata sokakları"
+			],
+			hours: "Genelde 08:30–22:00, sezonluk.",
+			fee: "Ücretli. Online kuyruk keser.",
+			transport: "Tünel veya Karaköy yokuşu. T1 Karaköy.",
+			address: "Bereketzade, Galata Kulesi Sk.",
+			lat: 41.0256,
+			lng: 28.9741,
+			tags: [
+				"kule",
+				"manzara",
+				"ceneviz"
+			],
+			image: "/images/galata-tower.jpg",
+			distanceKm: 3,
+			duration: "Taksim'den 15 dk",
+			tips: ["Rüzgarlı günde teras kesilir.", "Sabah ilk sefer daha boş."]
+		},
+		{
+			id: "kapali-carsi",
+			name: "Kapalıçarşı",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Osmanlı",
+			summary: "60 kadar sokak, hanlar ve kuyumcular; Fatih'in kapalı kenti.",
+			description: "15. yüzyıldan beri. Cevahir Bedesteni çekirdek, etrafı hanlarla büyümüş. Halı, antika, altın, lületaşı. Pazarları kapalı. Kaybolmak normal; Nuruosmaniye ve Beyazıt kapıları pusula. Çay ve tost için iç han avluları.",
+			highlights: [
+				"Cevahir Bedesteni",
+				"Han avluları",
+				"Kuyumcu sokakları"
+			],
+			hours: "Hafta içi ~08:30–19:00; pazar kapalı.",
+			fee: "Ücretsiz.",
+			transport: "T1 Beyazıt-Kapalıçarşı veya Çemberlitaş.",
+			address: "Beyazıt, Fatih",
+			lat: 41.0106,
+			lng: 28.968,
+			tags: [
+				"çarşı",
+				"han",
+				"alışveriş"
+			],
+			image: "/images/bazaar.jpg",
+			distanceKm: 6,
+			duration: "Eminönü'nden 10 dk",
+			tips: ["Pazarlık beklenir.", "Çanta önde; kalabalık pickpocket."]
+		},
+		{
+			id: "misir-carsisi",
+			name: "Mısır Çarşısı",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Osmanlı",
+			summary: "Eminönü'nde baharat, lokum, peynir; Yeni Cami külliyesinin çarşısı.",
+			description: "1660 civarı L-planlı çarşı. Baharatçıların vitrinleri abartılıdır; arka sokaklarda fiyat daha gerçek. Yeni Cami, Rüstem Paşa (İznik çinisi) ve Haliç iskelesi üçgeninde.",
+			highlights: [
+				"Baharat",
+				"Yeni Cami avlusu",
+				"Rüstem Paşa çinileri"
+			],
+			hours: "Genelde 08:00–19:30; pazar açık ama seyrek.",
+			fee: "Ücretsiz.",
+			transport: "Eminönü vapur, T1 Eminönü, Marmaray Sirkeci.",
+			address: "Rüstem Paşa, Eminönü",
+			lat: 41.0165,
+			lng: 28.9706,
+			tags: [
+				"baharat",
+				"eminönü",
+				"çarşı"
+			],
+			image: "/images/bazaar.jpg",
+			distanceKm: 5,
+			duration: "Karaköy'den 8 dk",
+			tips: ["Rüstem Paşa üst katta, kolay kaçıyor.", "Balık ekmek iskelesi turistik."]
+		},
+		{
+			id: "kiz-kulesi",
+			name: "Kız Kulesi",
+			category: "tarihi",
+			district: "Üsküdar",
+			side: "asya",
+			era: "Bizans / Osmanlı",
+			summary: "Üsküdar açıklarında kule; kısa tekne, Boğaz'ın orta noktası.",
+			description: "Restorasyon sonrası yeniden ziyarete açık. Üsküdar veya Kabataş'tan tekne. İçeride müze katı ve teras. Gün batımı slotları dolu. Rüzgarlı günde sefer iptali olur.",
+			highlights: [
+				"Boğaz ortası teras",
+				"Kısa tekne",
+				"Üsküdar silueti"
+			],
+			hours: "Sefer ve bilet saatine bağlı.",
+			fee: "Tekne + kule kombine ücretli.",
+			transport: "Üsküdar Marmaray / vapur; iskele tabela.",
+			address: "Salacak açıkları, Üsküdar",
+			lat: 41.0211,
+			lng: 29.0041,
+			tags: [
+				"kule",
+				"boğaz",
+				"üsküdar"
+			],
+			image: "/images/kiz-kulesi.jpg",
+			distanceKm: 8,
+			duration: "Üsküdar'dan 10 dk",
+			tips: ["Biletleri çevrimiçi alın.", "Akşam rüzgarı sert."]
+		},
+		{
+			id: "rumeli-hisari",
+			name: "Rumeli Hisarı",
+			category: "tarihi",
+			district: "Sarıyer",
+			side: "avrupa",
+			era: "1452",
+			summary: "Fatih'in Boğaz'ı kestiği hisar; kuleler, sur ve dar merdivenler.",
+			description: "1452'de dört ayda. Anadolu Hisarı'nın karşısı. Müze olarak kule ve avlu gezilir. Yazın açık hava konserleri. Yokuş ve merdiven çok; rahat ayakkabı. Bebek–Emirgan sahil hattının duraklarından.",
+			highlights: [
+				"Halil Paşa kulesi",
+				"Boğaz kesiti",
+				"Sur yürüyüşü"
+			],
+			hours: "Genelde 09:00–17:00; pazartesi kapalı olabilir.",
+			fee: "Ücretli. Müzekart.",
+			transport: "22, 40, 40T Hisarüstü / Rumeli Hisarı. 22-A Bebek.",
+			address: "Yahya Kemal Cd., Rumeli Hisarı",
+			lat: 41.0848,
+			lng: 29.0567,
+			tags: [
+				"hisar",
+				"fetih",
+				"boğaz"
+			],
+			image: "/images/rumeli.jpg",
+			distanceKm: 13,
+			duration: "Taksim'den 35 dk",
+			tips: ["Yazın taşlar yakar.", "Karşı kıyı fotoğrafı için öğleden sonra ışık."]
+		},
+		{
+			id: "yedikule",
+			name: "Yedikule Zindanları",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Bizans / Osmanlı",
+			summary: "Altın Kapı ve yedi kule; surların mermer ucu, zindan hikayeleri.",
+			description: "Theodosius surlarının Marmara ucu. Porta Aurea (Altın Kapı) üzerine Osmanlı kuleleri. Kazıklı Voyvoda efsaneleri, devlet hapishanesi. Restorasyon dönemlerinde kısmi açık. Kazlıçeşme ve sahil yürüyüşüyle birleşir.",
+			highlights: [
+				"Altın Kapı",
+				"Zindanlar",
+				"Sur silueti"
+			],
+			hours: "Dönemsel; restorasyon duyurusu.",
+			fee: "Ücretli olduğunda Müzekart.",
+			transport: "Marmaray Kazlıçeşme; T1 otobüs aktarma.",
+			address: "Yedikule, Fatih",
+			lat: 40.9935,
+			lng: 28.923,
+			tags: [
+				"sur",
+				"zindan",
+				"bizans"
+			],
+			image: "/images/fortress.jpg",
+			distanceKm: 11,
+			duration: "Merkezden 30 dk",
+			tips: ["Kapalıysa dış sur fotoğrafı çekilir.", "Öğle sıcağında gölge yok."]
+		},
+		{
+			id: "eyup-sultan",
+			name: "Eyüp Sultan",
+			category: "tarihi",
+			district: "Eyüpsultan",
+			side: "avrupa",
+			era: "Osmanlı",
+			summary: "Ebu Eyyub el-Ensari türbesi, külliye ve Pierre Loti tepesi.",
+			description: "Fatih'in ilk büyük külliyelerinden. Türbe her gün kalabalık; cuma ve kandil taşar. Camianın arkasından teleferik veya yokuşla Pierre Loti. Haliç silueti akşamüstü. Türbe protokolü: sessiz, omuz kapalı.",
+			highlights: [
+				"Türbe",
+				"Çarşı",
+				"Pierre Loti manzara"
+			],
+			hours: "Cami ve türbe namaz vakitlerine göre.",
+			fee: "Ücretsiz. Teleferik ücretli.",
+			transport: "Eyüp vapuru; 39, 99A; teleferik hattı.",
+			address: "Camiikebir Mah., Eyüpsultan",
+			lat: 41.048,
+			lng: 28.9338,
+			tags: [
+				"türbe",
+				"haliç",
+				"külliye"
+			],
+			image: "/images/mosque.jpg",
+			distanceKm: 10,
+			duration: "Eminönü'nden 25 dk",
+			tips: ["Kandilde gitmeyin, yürünmez.", "Pierre Loti kahvesi manzara için."]
+		},
+		{
+			id: "balat-fener",
+			name: "Balat ve Fener",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Rum / Yahudi / Osmanlı",
+			summary: "Renkli evler, Patrikhane, Ahrida Sinagogu sokağı; yokuş ve merdiven.",
+			description: "Haliç'in eski gayrimüslim mahalleleri. Fener Rum Patrikhanesi, Sveti Stefan (Demir Kilise), renkli ahşap evler. Hafta sonu kalabalık ve vitrinli; hafta içi sakin. Kahvaltı ve ikinci el kitap. Yokuşlar dik.",
+			highlights: [
+				"Patrikhane",
+				"Demir Kilise",
+				"Renkli ev sokakları"
+			],
+			hours: "Mahalle sürekli açık; ibadethaneler ayrı saat.",
+			fee: "Sokak ücretsiz. Kilise/sinagog ziyareti kurala bağlı.",
+			transport: "Haliç vapuru Fener/Balat; 55T, 99A.",
+			address: "Balat – Fener, Fatih",
+			lat: 41.0295,
+			lng: 28.9495,
+			tags: [
+				"mahalle",
+				"haliç",
+				"patrikhane"
+			],
+			image: "/images/historic-street.jpg",
+			distanceKm: 8,
+			duration: "Eminönü'nden 20 dk",
+			tips: ["Merdiven fotoğrafı Vodina ve Merdivenli.", "Pazar günü kalabalık."]
+		},
+		{
+			id: "buyukada",
+			name: "Büyükada",
+			category: "tarihi",
+			district: "Adalar",
+			side: "asya",
+			era: "Geç Osmanlı",
+			summary: "Prens Adaları'nın büyüğü; fayton yerine elektrikli araç, Aya Yorgi yokuşu.",
+			description: "Yazlık köşkler, çam, denizin etrafı. Aya Yorgi manastırı tepede, yokuş zor. Bisiklet kiralama yaygın. Adalar vapuru Kabataş, Beşiktaş, Beşiktaş-Kadıköy-Bostancı. Yaz hafta sonu iskele kuyruğu uzun.",
+			highlights: [
+				"Aya Yorgi",
+				"Sahil turu",
+				"Ahşap köşkler"
+			],
+			hours: "Ada sürekli; manastır gündüz.",
+			fee: "Vapur ücretli. Ada girişi yok.",
+			transport: "Şehir Hatları Adalar vapuru.",
+			address: "Büyükada, Adalar",
+			lat: 40.857,
+			lng: 29.12,
+			tags: [
+				"ada",
+				"köşk",
+				"yürüyüş"
+			],
+			image: "/images/buyukada.jpg",
+			distanceKm: 20,
+			duration: "Kabataş'tan 50–90 dk",
+			tips: ["İçme suyu ve şapka.", "Elektrikli araç kuyruğu yazın uzun."]
+		},
+		{
+			id: "surlar",
+			name: "Theodosius Surları",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "5. yüzyıl",
+			summary: "Kara surları: Edirnekapı'dan Yedikule'ye çift duvar ve kuleler.",
+			description: "II. Theodosius'un kara suru. Edirnekapı, Topkapı, Mevlanakapı, Belgradkapı. Kara surları boyunca parça parça yürünebilir; bazı kuleler restore, bazıları harap. Panorama 1453 ve Kariye (Chora) aynı hatta. Akşam yalnız yürümeyin, gündüz güzergah seçin.",
+			highlights: [
+				"Edirnekapı",
+				"Çift sur hattı",
+				"Kuleler"
+			],
+			hours: "Açık alan, gündüz önerilir.",
+			fee: "Ücretsiz.",
+			transport: "T1 Topkapı; otobüs Edirnekapı.",
+			address: "Kara surları hattı, Fatih",
+			lat: 41.032,
+			lng: 28.939,
+			tags: [
+				"sur",
+				"bizans",
+				"yürüyüş"
+			],
+			image: "/images/fortress.jpg",
+			distanceKm: 10,
+			duration: "Merkezden 30 dk",
+			tips: ["Kaynak ve çukur var.", "Kariye ile aynı güne sığar."]
+		},
+		{
+			id: "bozdogan",
+			name: "Bozdoğan Kemeri",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Roma / Bizans",
+			summary: "Valens su kemeri; Unkapanı'ndan Fatih'e uzanan kemer sırası.",
+			description: "4. yüzyıl. Şehre su taşıyan hat. İki cadde kemerin altından geçer; akşam ışığı fotoğraf için iyi. Fatih Camii ve Şehzade Camii yürüme mesafesi. Gece aydınlatması var.",
+			highlights: ["Roma su hattı", "Atatürk Bulvarı geçişi"],
+			hours: "Açık alan.",
+			fee: "Ücretsiz.",
+			transport: "32, 36ES, 87; Unkapanı / İtfaiye.",
+			address: "Atatürk Bulvarı, Fatih",
+			lat: 41.016,
+			lng: 28.9555,
+			tags: [
+				"kemer",
+				"roma",
+				"su"
+			],
+			image: "/images/fortress.jpg",
+			distanceKm: 6,
+			duration: "Eminönü'nden 12 dk",
+			tips: ["Trafik gürültülü; yaya adası kullanın."]
+		},
+		{
+			id: "ortakoy",
+			name: "Ortaköy Camii",
+			category: "tarihi",
+			district: "Beşiktaş",
+			side: "avrupa",
+			era: "19. yüzyıl",
+			summary: "Boğaz Köprüsü eteğinde neo-barok cami; iskele ve kumpir sahili.",
+			description: "Abdülmecid, Nigogayos Balyan. Küçük ama konum efsane. Cuma ve gün batımı dolu. Sahil pazarı turistik. Cami içi sade, ziyaret kısa. Bebek yönü sahil yürüyüşü başlar.",
+			highlights: [
+				"Boğaz Köprüsü kadrajı",
+				"İskele",
+				"Küçük iç mekan"
+			],
+			hours: "Namaz dışı ziyaret.",
+			fee: "Ücretsiz.",
+			transport: "40, 40T, 22; otopark zor.",
+			address: "Mecidiye, Ortaköy",
+			lat: 41.0472,
+			lng: 29.0269,
+			tags: [
+				"cami",
+				"boğaz",
+				"barok"
+			],
+			image: "/images/mosque.jpg",
+			distanceKm: 8,
+			duration: "Beşiktaş'tan 15 dk",
+			tips: ["Gün batımı için 40 dk erken gelin."]
+		},
+		{
+			id: "haydarpasa",
+			name: "Haydarpaşa Garı",
+			category: "tarihi",
+			district: "Kadıköy",
+			side: "asya",
+			era: "1908",
+			summary: "Kadıköy rıhtımında Alman işi gar; restorasyonlu siluet, iskele manzarası.",
+			description: "Bağdat Demiryolu'nun İstanbul ucu. Yangın ve restorasyon sonrası kısmi kullanım. Dışarıdan ve rıhtımdan bakılır. Kadıköy çarşısı, Moda ve iskele ile aynı yürüyüş.",
+			highlights: ["Rıhtım silueti", "Çatılar ve kuleler"],
+			hours: "Dış cephe her zaman. İç dönemsel.",
+			fee: "Dışarı ücretsiz.",
+			transport: "Kadıköy vapur; Marmaray Ayrılık Çeşmesi + yaya.",
+			address: "Haydarpaşa, Kadıköy",
+			lat: 40.996,
+			lng: 29.018,
+			tags: [
+				"gar",
+				"kadıköy",
+				"rıhtım"
+			],
+			image: "/images/haydarpasa.jpg",
+			distanceKm: 8,
+			duration: "Karaköy vapur 20 dk",
+			tips: ["Gün batımı Kadıköy iskelesinden."]
+		},
+		{
+			id: "kuzguncuk",
+			name: "Kuzguncuk",
+			category: "tarihi",
+			district: "Üsküdar",
+			side: "asya",
+			era: "Mahalle",
+			summary: "Kilise, sinagog ve cami aynı sokakta; renkli evler, Boğaz kıyısı.",
+			description: "Üsküdar–Beylerbeyi arası. İcadiye Caddesi renkli ahşaplar, çarşı, sahil. Turistikleşti ama ölçek hâlâ mahalle. Cumartesi kahvaltı kuyruğu. Kuzguncuk Korusu yokuşta.",
+			highlights: [
+				"İcadiye Cd.",
+				"Sahil",
+				"Koru yokuşu"
+			],
+			hours: "Mahalle sürekli.",
+			fee: "Ücretsiz.",
+			transport: "15, 15F, 15P; Üsküdar'dan dolmuş.",
+			address: "Kuzguncuk, Üsküdar",
+			lat: 41.0348,
+			lng: 29.0295,
+			tags: [
+				"mahalle",
+				"boğaz",
+				"ahşap"
+			],
+			image: "/images/historic-street.jpg",
+			distanceKm: 10,
+			duration: "Üsküdar'dan 15 dk",
+			tips: ["Otomobille dar sokak; vapur+yürüme."]
+		},
+		{
+			id: "kariye",
+			name: "Kariye Camii",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Geç Bizans",
+			summary: "Chora'nın mozaik ve freskleri; Edirnekapı'da, sur dibinde.",
+			description: "14. yüzyıl mozaikleri İstanbul'un en iyileri arasında. Cami statüsü ve ziyaret kuralları dönemsel değişti; mozaiklerin bir kısmı görülebilir. Edirnekapı suru ve Anemas Zindanı hattı. Küçük, yoğun, kuyruklu.",
+			highlights: [
+				"Pantokrator mozaiği",
+				"Freskler",
+				"Edirnekapı"
+			],
+			hours: "Cami / ziyaret duyurusu. Namaz saatine dikkat.",
+			fee: "Dönemsel ücret veya ücretsiz cami ziyareti.",
+			transport: "28, 87, 32; Edirnekapı.",
+			address: "Kariye Camii Sk., Edirnekapı",
+			lat: 41.0311,
+			lng: 28.9391,
+			tags: [
+				"mozaik",
+				"bizans",
+				"chora"
+			],
+			image: "/images/museum-interior.jpg",
+			distanceKm: 10,
+			duration: "Merkezden 30 dk",
+			tips: ["Mozaik için sabah ışığı.", "Sur yürüyüşüyle birleştirin."]
+		},
+		{
+			id: "sile-kumbaba",
+			name: "Şile Kumbaba",
+			category: "kamp",
+			district: "Şile",
+			side: "asya",
+			summary: "Şile merkezine yakın çam ve kumsala komşu yaz kampı.",
+			description: "Şile'nin klasik sahil kampı. Çadır ve karavan parselleri, duş-WC, yazın büfe. Karadeniz rüzgarı sürekli; çadır kazığını sıkı çakın. Deniz dalgalı ve serin olabilir. Şile çarşısı 10 dakikalık dolmuş. Orman yangını sezonunda ateş yasak.",
+			highlights: [
+				"Denize yakınlık",
+				"Şile çarşısı",
+				"Çam gölgesi"
+			],
+			hours: "Yaz sezonu yoğun; kışın çoğu tesis kapalı.",
+			fee: "Özel tesis, kişi/çadır başı ücretli.",
+			transport: "Üsküdar–Şile otobüsü (139 / 139A hattı dönemsel). Özel araç ~1 sa 30 dk.",
+			address: "Kumbaba Mevkii, Şile",
+			lat: 41.1745,
+			lng: 29.612,
+			tags: [
+				"yaz",
+				"deniz",
+				"çam"
+			],
+			image: "/images/camp-summer.jpg",
+			distanceKm: 70,
+			duration: "Kadıköy'den ~1 sa 30 dk",
+			seasons: ["yaz"],
+			facilities: [
+				"cadir",
+				"karavan",
+				"wc",
+				"dus",
+				"market",
+				"plaj",
+				"orman",
+				"ates-yasak"
+			],
+			difficulty: "kolay",
+			terrain: "Kum ve çam altı, rüzgarlı",
+			bestTime: "Haziran sonu – Eylül başı",
+			tips: [
+				"Rüzgar kırıcı ve yedek kazık.",
+				"Deniz poyrazında soğuk; polar alın.",
+				"Hafta sonu yer ayırtın."
+			],
+			packing: [
+				"Rüzgar kırıcı",
+				"Güneş kremi",
+				"Mallet / yedek kazık",
+				"Sandalet + polar"
+			],
+			rules: ["Ateş ve mangal yasak sezonları sıkı.", "Çöpü Şile'ye götürün."]
+		},
+		{
+			id: "sofular",
+			name: "Sofular Koyu",
+			category: "kamp",
+			district: "Şile",
+			side: "asya",
+			summary: "Şile'nin sakin koylarından; yazın çadır, az ışık kirliliği.",
+			description: "Şile–Ağva hattında küçük koy. Tesise göre duş ve büfe değişir. Kumbaba'dan daha sakin, market daha uzak. Kayalık girişli deniz. Gece poyrazı sert. İlkbahar sonu da denenebilir ama su soğuk.",
+			highlights: [
+				"Sakin koy",
+				"Yıldız",
+				"Kısa yürüyüş"
+			],
+			hours: "Yaz sezonu.",
+			fee: "Özel koy/tesis ücretli.",
+			transport: "Şile'den dolmuş veya özel araç. Son kilometre dar.",
+			address: "Sofular, Şile",
+			lat: 41.162,
+			lng: 29.72,
+			tags: [
+				"yaz",
+				"koy",
+				"sakin"
+			],
+			image: "/images/sile-coast.jpg",
+			distanceKm: 82,
+			duration: "Kadıköy'den ~1 sa 45 dk",
+			seasons: ["yaz"],
+			facilities: [
+				"cadir",
+				"wc",
+				"plaj",
+				"orman",
+				"ates-yasak"
+			],
+			difficulty: "orta",
+			terrain: "Koy, çakıl, çam",
+			bestTime: "Temmuz – Ağustos",
+			tips: ["Market Şile'den alın.", "Kayalık denize ayakkabı."],
+			packing: [
+				"Su stoku",
+				"Kafa lambası",
+				"Rüzgar kırıcı"
+			],
+			rules: ["Özel mülk sınırına girmeyin.", "Müzik hoparlörü gece yasak."]
+		},
+		{
+			id: "agva-kilimli",
+			name: "Ağva Kilimli Koyu",
+			category: "kamp",
+			district: "Şile",
+			side: "asya",
+			summary: "Nehir ağzı ve koy; bungalov + çadır, yazın İstanbul'un kaçış adresi.",
+			description: "Göksu ve Ağva derelerinin denize döküldüğü tatil köyü. Kilimli koyu yürüyüş veya kısa tekne. Sivrisinek yazın yoğun. Tesiste bungalov seven çok; çadır alanı sınırlı. Kano ve sakin su. Hafta sonu İstanbul trafiği dönüşte ağır.",
+			highlights: [
+				"Koy",
+				"Kano",
+				"Bungalov seçeneği"
+			],
+			hours: "Yaz asıl sezon; bahar/sonbahar sakin.",
+			fee: "Tesis ücretli.",
+			transport: "Şile üzerinden Ağva otobüsü. Araçla ~2 saat.",
+			address: "Kilimli Koyu, Ağva",
+			lat: 41.138,
+			lng: 29.855,
+			tags: [
+				"yaz",
+				"koy",
+				"bungalov"
+			],
+			image: "/images/agva-river.jpg",
+			distanceKm: 98,
+			duration: "Kadıköy'den ~2 sa",
+			seasons: ["yaz"],
+			facilities: [
+				"cadir",
+				"bungalov",
+				"wc",
+				"dus",
+				"market",
+				"plaj",
+				"nehir",
+				"ates-yasak"
+			],
+			difficulty: "kolay",
+			terrain: "Koy ve dere kenarı",
+			bestTime: "Haziran – Eylül",
+			tips: ["Sivrisinek kovucu şart.", "Pazar akşamı dönüşü erken çıkın."],
+			packing: [
+				"Sivrisinek ilacı",
+				"Kano yeleği (kiralık da var)",
+				"Havlu"
+			],
+			rules: ["Koyda ateş yasak.", "Tekne saatlerine uyun."]
+		},
+		{
+			id: "agva-nehir",
+			name: "Ağva Nehir Kampı",
+			category: "kamp",
+			district: "Şile",
+			side: "asya",
+			summary: "Göksu kenarında gölgeli çadır; denizden içeride, rüzgar daha az.",
+			description: "Ağva köyünün nehir boyu pansiyon ve kamp tesisleri. Deniz kampına göre poyraz az, nem ve sivrisinek fazla. Kano, paddle, asma köprü. İlkbahar sonu ve eylül, yaz kadar kalabalık değil. Su kenarı sabah sisli, fotoğraf iyi.",
+			highlights: [
+				"Göksu",
+				"Gölge",
+				"Kano"
+			],
+			hours: "Nisan–Ekim tesisler açık.",
+			fee: "Çadır kişi başı + araç.",
+			transport: "Ağva merkezinden yürüme veya kısa araç.",
+			address: "Göksu kenarı, Ağva",
+			lat: 41.134,
+			lng: 29.852,
+			tags: [
+				"yaz",
+				"nehir",
+				"kano"
+			],
+			image: "/images/agva-river.jpg",
+			distanceKm: 97,
+			duration: "Kadıköy'den ~2 sa",
+			seasons: ["yaz", "dort-mevsim"],
+			facilities: [
+				"cadir",
+				"bungalov",
+				"wc",
+				"dus",
+				"elektrik",
+				"market",
+				"nehir",
+				"ates-yasak"
+			],
+			difficulty: "kolay",
+			terrain: "Çim ve nehir kenarı, nemli",
+			bestTime: "Mayıs – Haziran, Eylül",
+			tips: ["Taban su geçirmesin.", "Gece nem çiğ yapar."],
+			packing: [
+				"Tarp",
+				"Sivrisinek ağı",
+				"Hafif yorgan (eylül)"
+			],
+			rules: ["Nehre sabun dökmeyin.", "Can yeleği olmadan açılmayın."]
+		},
+		{
+			id: "kilyos",
+			name: "Kilyos / Kumköy",
+			category: "kamp",
+			district: "Sarıyer",
+			side: "avrupa",
+			summary: "Avrupa yakasının en yakın deniz kampı; rüzgarlı, yazın dolu.",
+			description: "Sarıyer'in Karadeniz sahili. Özel plaj + kamp tesisleri. İstanbul'a en kısa deniz kampı (merkezden ~40–60 dk). Poyraz sert, çadır uçar. Hafta sonu genç kalabalık, müzik. Deniz bazı günler yüzülmez. Duş ve büfe var.",
+			highlights: [
+				"Yakınlık",
+				"Plaj",
+				"Gece deniz sesi"
+			],
+			hours: "Haziran–Eylül asıl sezon.",
+			fee: "Giriş + çadır / kişi.",
+			transport: "Sarıyer'den Kilyos minibüsü; 40'tan aktarma.",
+			address: "Kumköy, Kilyos, Sarıyer",
+			lat: 41.242,
+			lng: 29.002,
+			tags: [
+				"yaz",
+				"plaj",
+				"yakın"
+			],
+			image: "/images/camp-summer.jpg",
+			distanceKm: 32,
+			duration: "Taksim'den ~50 dk",
+			seasons: ["yaz"],
+			facilities: [
+				"cadir",
+				"wc",
+				"dus",
+				"market",
+				"plaj",
+				"ates-yasak"
+			],
+			difficulty: "kolay",
+			terrain: "Kum, açık, rüzgarlı",
+			bestTime: "Temmuz – Ağustos hafta içi",
+			tips: ["Düşük profil çadır.", "Değerli eşyayı çadırda bırakmayın."],
+			packing: [
+				"Rüzgar kazığı",
+				"Güneş şemsiyesi",
+				"Kulak tıkacı"
+			],
+			rules: ["Hoparlör kurallarına uyun.", "Ateş yasak."]
+		},
+		{
+			id: "gumusdere",
+			name: "Gümüşdere",
+			category: "kamp",
+			district: "Sarıyer",
+			side: "avrupa",
+			summary: "Kilyos'un sakin komşusu; kumsala çadır, daha az tesis.",
+			description: "Kilyos–Kısırkaya arası. Daha az işletme, daha çok serbest kumsala yaklaşan kamp. Altyapı zayıf olabilir: su ve WC'yi teyit edin. Rüzgar aynı Karadeniz. Gün batımı yok, gün doğumu var.",
+			highlights: ["Sakin kumsal", "Gün doğumu"],
+			hours: "Yaz.",
+			fee: "Tesis varsa ücretli, bazı koylar belirsiz — özel/orman kuralı.",
+			transport: "Sarıyer minibüs hattı; son durak yürüme.",
+			address: "Gümüşdere, Sarıyer",
+			lat: 41.248,
+			lng: 28.978,
+			tags: [
+				"yaz",
+				"sakin",
+				"kumsal"
+			],
+			image: "/images/camp-summer.jpg",
+			distanceKm: 35,
+			duration: "Taksim'den ~55 dk",
+			seasons: ["yaz"],
+			facilities: [
+				"cadir",
+				"plaj",
+				"ates-yasak"
+			],
+			difficulty: "orta",
+			terrain: "Açık kumsal",
+			bestTime: "Haziran, Eylül",
+			tips: ["Su ve WC planı yapın.", "Vahşi kamp orman kanununa takılır."],
+			packing: [
+				"Su 6 L/kişi",
+				"Kürek",
+				"Tuvalet küreği"
+			],
+			rules: ["İzinsiz orman kampı cezalı.", "Çöp sıfır."]
+		},
+		{
+			id: "riva",
+			name: "Riva",
+			category: "kamp",
+			district: "Beykoz",
+			side: "asya",
+			summary: "Anadolu Karadeniz'i; dere ağzı, plaj ve köy.",
+			description: "Beykoz'un Karadeniz köyü. Plaj + dere. Yazın çadır ve günübirlik. Poyraz var ama Kilyos kadar açık değil. Köyde market ve fırın. Dönüşte Poyrazköy–Anadolu Kavağı ile birleştirilebilir.",
+			highlights: [
+				"Dere ağzı",
+				"Köy marketi",
+				"Plaj"
+			],
+			hours: "Yaz sezonu.",
+			fee: "Plaj/kamp işletmesi ücretli.",
+			transport: "Beykoz–Riva otobüs/dolmuş. Araçla Kavacık sonrası ~40 dk.",
+			address: "Riva, Beykoz",
+			lat: 41.136,
+			lng: 29.215,
+			tags: [
+				"yaz",
+				"plaj",
+				"köy"
+			],
+			image: "/images/sile-coast.jpg",
+			distanceKm: 40,
+			duration: "Kadıköy'den ~1 sa",
+			seasons: ["yaz"],
+			facilities: [
+				"cadir",
+				"wc",
+				"market",
+				"plaj",
+				"nehir",
+				"ates-yasak"
+			],
+			difficulty: "kolay",
+			terrain: "Kum ve dere kenarı",
+			bestTime: "Haziran – Eylül",
+			tips: ["Hafta sonu otopark dolu.", "Dere akıntısına dikkat."],
+			packing: [
+				"Güneş kremi",
+				"Sandık sandal",
+				"Çöp torbası"
+			],
+			rules: ["Dere yatağına çadır kurmayın."]
+		},
+		{
+			id: "polonezkoy",
+			name: "Polonezköy Tabiat Parkı",
+			category: "kamp",
+			district: "Beykoz",
+			side: "asya",
+			summary: "Dört mevsim orman; resmi tabiat parkı, bungalov ve sınırlı çadır.",
+			description: "19. yüzyıl Polonya köyü + tabiat parkı. Meşe, kayın, yürüyüş parkurları. Çadır kampı park kurallarına bağlı; birçok kişi ev pansiyonu/bungalov kullanır. Kışın çamur ve sis, yazın serin gölge. İstanbul'un dört mevsim en güvenli 'doğaya kaçış' adreslerinden. Park giriş ücreti ayrı.",
+			highlights: [
+				"Parkurlar",
+				"Köy kahvaltısı",
+				"Dört mevsim"
+			],
+			hours: "Park gündüz ağırlıklı; konaklama tesis saatine göre.",
+			fee: "Tabiat parkı giriş + tesis.",
+			transport: "Beykoz / Kavacık üzerinden. Hafta sonu trafik.",
+			address: "Polonezköy, Beykoz",
+			lat: 41.108,
+			lng: 29.212,
+			tags: [
+				"dört mevsim",
+				"orman",
+				"park"
+			],
+			image: "/images/belgrad-forest.jpg",
+			distanceKm: 32,
+			duration: "Kadıköy'den ~50 dk",
+			seasons: ["dort-mevsim"],
+			facilities: [
+				"cadir",
+				"bungalov",
+				"wc",
+				"market",
+				"orman",
+				"yuruyus",
+				"ates-yasak"
+			],
+			difficulty: "kolay",
+			terrain: "Orman, çamurlu patika",
+			elevation: "130–200 m",
+			bestTime: "Nisan–Mayıs, Ekim",
+			tips: [
+				"Park içinde ateş yasak.",
+				"Kışın çamur çizmesi.",
+				"Köyde pazar kahvaltısı kuyruklu."
+			],
+			packing: [
+				"Yürüyüş ayakkabısı",
+				"Yağmurluk",
+				"Termos"
+			],
+			rules: [
+				"Milli park / tabiat parkı tüzüğü.",
+				"Köpek tasma.",
+				"Bitki koparmayın."
+			]
+		},
+		{
+			id: "belgrad",
+			name: "Belgrad Ormanı",
+			category: "kamp",
+			district: "Sarıyer / Eyüpsultan",
+			side: "avrupa",
+			summary: "Dört mevsim yürüyüş ve piknik. Gece çadırı çoğu bölgede yasak.",
+			description: "Bentler, kayın-meşe, mesire alanları (9. ve 10. km). İstanbul'un akciğeri. Geceleme kampı orman işletmesi ve İBB kurallarına göre büyük ölçüde yasak veya çok sınırlıdır — burayı günübirlik dört mevsim doğa durağı olarak düşünün. İlkbahar çiçek, sonbahar yaprak, kış sis. Bentler yürüyüşü 6–12 km. Hafta sonu 9. km otopark dolu.",
+			highlights: [
+				"Bentler",
+				"Kayın ormanı",
+				"Mesire"
+			],
+			hours: "Gündüz. Gece giriş kısıtlı.",
+			fee: "Bazı mesire giriş/araç ücretli.",
+			transport: "Bahçeköy otobüsleri; 42HM. Araçla 9. km.",
+			address: "Bahçeköy, Belgrad Ormanı",
+			lat: 41.184,
+			lng: 28.961,
+			tags: [
+				"dört mevsim",
+				"günübirlik",
+				"orman"
+			],
+			image: "/images/belgrad-forest.jpg",
+			distanceKm: 22,
+			duration: "Taksim'den ~40 dk",
+			seasons: ["dort-mevsim"],
+			facilities: [
+				"orman",
+				"yuruyus",
+				"wc",
+				"ates-yasak"
+			],
+			difficulty: "kolay",
+			terrain: "Orman yolu ve patika",
+			elevation: "60–160 m",
+			bestTime: "Ekim, Nisan",
+			tips: [
+				"Gece kampı için resmi izin yoksa kurmayın.",
+				"Mangal sadece izinli ızgara noktaları.",
+				"Kene mevsimi: uzun çorap."
+			],
+			packing: [
+				"Su",
+				"Yağmurluk",
+				"Kene spreyi",
+				"Harita / offline harita"
+			],
+			rules: [
+				"İzinsiz gece kampı cezalı.",
+				"Ateş yasak dönemleri uzun.",
+				"Cam şişe bırakmayın."
+			]
+		},
+		{
+			id: "terkos",
+			name: "Terkos / Durusu Gölü",
+			category: "kamp",
+			district: "Arnavutköy",
+			side: "avrupa",
+			summary: "İçme suyu gölü kıyısı; kuş, rüzgar, dört mevsim açık arazi.",
+			description: "İstanbul'un kuzeybatı su rezervi. Kıyı yer yer kamışlık, yer yer kum. Kuş gözlemi güçlü. Kamp, göl koruma havzası kurallarına takılır: rastgele çadır cezalı olabilir. Resmi / özel tesis veya köy pansiyonunu seçin. Rüzgar düz arazide sert. Gün batımı uzun.",
+			highlights: [
+				"Kuş",
+				"Gün batımı",
+				"Açık ufuk"
+			],
+			hours: "Gündüz önerilir; tesis saatine bakın.",
+			fee: "Tesis varsa ücretli.",
+			transport: "Arnavutköy–Durusu. TEM'den ~45–70 dk.",
+			address: "Durusu, Arnavutköy",
+			lat: 41.322,
+			lng: 28.607,
+			tags: [
+				"dört mevsim",
+				"göl",
+				"kuş"
+			],
+			image: "/images/camp-lake.jpg",
+			distanceKm: 48,
+			duration: "Taksim'den ~1 sa 10 dk",
+			seasons: ["dort-mevsim"],
+			facilities: [
+				"cadir",
+				"gol",
+				"ates-yasak"
+			],
+			difficulty: "orta",
+			terrain: "Açık kıyı, rüzgarlı",
+			bestTime: "Eylül – Kasım, Mart – Mayıs",
+			tips: [
+				"Havza kuralını ihlal etmeyin.",
+				"Rüzgar kazığı.",
+				"Dürbün alın."
+			],
+			packing: [
+				"Rüzgar kırıcı",
+				"Dürbün",
+				"Sıcak içecek"
+			],
+			rules: ["Göle girmek / kirletmek yasak.", "İzinsiz ateş yok."]
+		},
+		{
+			id: "darlik",
+			name: "Darlık Tabiat Parkı",
+			category: "kamp",
+			district: "Şile",
+			side: "asya",
+			summary: "Baraj ormanı, göl manzarası, dört mevsim yürüyüş ve kontrollü kamp.",
+			description: "Ömerli–Şile yolunda. Tabiat parkı girişli, orman + baraj gölü. Çadır için parkın belirlediği alanlar. Yazın serin, kışın ıslak. Sessiz; Kilyos tarzı parti yok. Su kenarına inmeyin, havza. Sonbahar sis ve mantar (koparmayın, bakın).",
+			highlights: [
+				"Baraj manzarası",
+				"Sessizlik",
+				"Orman"
+			],
+			hours: "Park saatleri; gece kuralı işletmede.",
+			fee: "Park girişi + kamp ücreti.",
+			transport: "Alemdağ–Ömerli–Şile yolu. Toplu taşım zayıf, araç şart.",
+			address: "Darlık, Şile",
+			lat: 41.085,
+			lng: 29.57,
+			tags: [
+				"dört mevsim",
+				"baraj",
+				"orman"
+			],
+			image: "/images/camp-forest.jpg",
+			distanceKm: 55,
+			duration: "Kadıköy'den ~1 sa 15 dk",
+			seasons: ["dort-mevsim"],
+			facilities: [
+				"cadir",
+				"wc",
+				"orman",
+				"gol",
+				"yuruyus",
+				"ates-yasak"
+			],
+			difficulty: "kolay",
+			terrain: "Orman içi parsel",
+			bestTime: "Mayıs, Ekim",
+			tips: ["Nakit giriş olabiliyor.", "Sinyal zayıf."],
+			packing: [
+				"Nakit",
+				"Yağmurluk",
+				"Offline harita"
+			],
+			rules: ["Baraja inmek yasak.", "Ateş yasağına uyun."]
+		},
+		{
+			id: "ballikayalar",
+			name: "Ballıkayalar",
+			category: "kamp",
+			district: "Gebze",
+			side: "yakin",
+			summary: "Kanyon, tırmanış ve dere; ilkbahar–sonbahar asıl sezon, kış soğuk.",
+			description: "Gebze'de tabiat parkı. Kireçtaşı kanyon, yürüyüş, spor tırmanış. Resmi kamp alanı (tesis dönemsel). Yaz öğleni kanyonda bunaltıcı, kış gölge ve buz. Dere geçişleri kaygan. İstanbul'a 1 saat, hafta sonu tırmanışçılar dolar. Dört mevsim gidilir ama konfor ilkbahar-sonbahar.",
+			highlights: [
+				"Kanyon",
+				"Tırmanış",
+				"Dere"
+			],
+			hours: "Park giriş saatleri.",
+			fee: "Tabiat parkı + kamp.",
+			transport: "D-100 / O-4 Gebze çıkışı. Toplu taşım zor.",
+			address: "Ballıkayalar Tabiat Parkı, Gebze",
+			lat: 40.836,
+			lng: 29.515,
+			tags: [
+				"dört mevsim",
+				"kanyon",
+				"tırmanış"
+			],
+			image: "/images/camp-forest.jpg",
+			distanceKm: 65,
+			duration: "Kadıköy'den ~1 sa",
+			seasons: ["dort-mevsim"],
+			facilities: [
+				"cadir",
+				"wc",
+				"orman",
+				"nehir",
+				"yuruyus",
+				"ates-yasak"
+			],
+			difficulty: "orta",
+			terrain: "Kanyon tabanı ve yamaç",
+			elevation: "80–250 m",
+			bestTime: "Nisan – Haziran, Eylül – Ekim",
+			tips: [
+				"Kaymaz ayakkabı.",
+				"Sel riski yağmurda.",
+				"Kask tırmanışta."
+			],
+			packing: [
+				"Kaymaz taban",
+				"Kafa lambası",
+				"İlk yardım"
+			],
+			rules: ["Derenin içine sabun yok.", "Tırmanışta park kuralları."]
+		},
+		{
+			id: "aydos",
+			name: "Aydos Ormanı",
+			category: "kamp",
+			district: "Kartal / Pendik",
+			side: "asya",
+			summary: "Kent ormanı, günübirlik yürüyüş. Gece kampı yok denecek kadar kısıtlı.",
+			description: "İstanbul'un Anadolu yakası kent ormanı. Tepeden Marmara. Koşu ve yürüyüş parkurları. Çadırla geceleme beklemeyin; dört mevsim sabah yürüyüşü ve günübirlik piknik. Aydos Kalesi kalıntısı. Hafta sonu kalabalık, hafta içi sakin.",
+			highlights: [
+				"Marmara manzara",
+				"Parkur",
+				"Kent içi orman"
+			],
+			hours: "Gündüz.",
+			fee: "Ücretsiz / mesire kuralı.",
+			transport: "Kartal metro + dolmuş; Kaynarca.",
+			address: "Aydos, Kartal–Pendik",
+			lat: 40.921,
+			lng: 29.235,
+			tags: [
+				"dört mevsim",
+				"günübirlik",
+				"kent ormanı"
+			],
+			image: "/images/camp-forest.jpg",
+			distanceKm: 22,
+			duration: "Kadıköy'den ~40 dk",
+			seasons: ["dort-mevsim"],
+			facilities: [
+				"orman",
+				"yuruyus",
+				"ates-yasak"
+			],
+			difficulty: "kolay",
+			terrain: "Orman yolu",
+			elevation: "200–537 m (Aydos tepesi)",
+			bestTime: "Ekim, Nisan",
+			tips: ["Su alın, çeşme dönemsel.", "Sis kışın manzarayı kapatır."],
+			packing: ["Koşu ayakkabısı", "Su"],
+			rules: ["İzinsiz çadır yok.", "Motorlu araç parkurda yok."]
+		},
+		{
+			id: "catalca",
+			name: "Çatalca ormanları",
+			category: "kamp",
+			district: "Çatalca",
+			side: "avrupa",
+			summary: "Trakya kırsalı, dört mevsim sakin köy ve orman kenarı tesisleri.",
+			description: "Karacaköy, İnceğiz, Hacıllı şelalesi hattı. İstanbul il sınırı içinde ama şehirden uzak. Özel çiftlik kampı ve köy evleri. Yazın serin vadi, kışın çamur. Şelale ilkbaharda güçlü. Altyapı kente göre zayıf; market köyde.",
+			highlights: [
+				"Hacıllı şelalesi",
+				"Kırsal sessizlik",
+				"Köy"
+			],
+			hours: "Tesis saatine göre.",
+			fee: "Çiftlik/kamp ücretli.",
+			transport: "Çatalca otobüs + yerel dolmuş. Araç konforlu.",
+			address: "Karacaköy / Hacıllı, Çatalca",
+			lat: 41.35,
+			lng: 28.35,
+			tags: [
+				"dört mevsim",
+				"kırsal",
+				"şelale"
+			],
+			image: "/images/camp-forest.jpg",
+			distanceKm: 70,
+			duration: "Taksim'den ~1 sa 30 dk",
+			seasons: ["dort-mevsim"],
+			facilities: [
+				"cadir",
+				"bungalov",
+				"orman",
+				"yuruyus",
+				"market"
+			],
+			difficulty: "kolay",
+			terrain: "Vadi ve köy arazisi",
+			bestTime: "Mayıs, Ekim",
+			tips: ["Şelale kayalıkları ıslak.", "Sinyal kesik noktalar."],
+			packing: [
+				"Nakit",
+				"Çizme (ilkbahar)",
+				"Yağmurluk"
+			],
+			rules: ["Özel tarlaya çadır yok.", "Hayvanlara yaklaşmayın."]
+		},
+		{
+			id: "kartepe",
+			name: "Kartepe",
+			category: "kamp",
+			district: "Kocaeli",
+			side: "yakin",
+			summary: "İstanbul'un kış kampı: kar, kayak ve çam. Yazın yayla serinliği.",
+			description: "Kocaeli'nde 1600 m. Kışın kar kampı ve kayak. Dört mevsim çadır için rüzgar ve soğuk ciddi. Çoğu kişi karavan, bungalov veya kayak oteli kullanır. Kış kampı deneyimi yoksa çadırla gitmeyin: 4 mevsim çadır, -10 tulum, buhar yönetimi. Maşukiye ile aynı gün. İstanbul'dan ~1.5–2 saat.",
+			highlights: [
+				"Kar",
+				"Kayak",
+				"Gece soğuğu"
+			],
+			hours: "Kayak sezonu genelde Aralık–Mart.",
+			fee: "Tesis / pist / kamp ayrı.",
+			transport: "TEM Kartepe gişesi. Toplu taşım hafta sonu ek sefer.",
+			address: "Kartepe, Kocaeli",
+			lat: 40.65,
+			lng: 30,
+			tags: [
+				"kış",
+				"kar",
+				"kayak"
+			],
+			image: "/images/kartepe-snow.jpg",
+			distanceKm: 110,
+			duration: "Kadıköy'den ~1 sa 45 dk",
+			seasons: ["kis", "dort-mevsim"],
+			facilities: [
+				"cadir",
+				"karavan",
+				"bungalov",
+				"wc",
+				"orman",
+				"yuruyus"
+			],
+			difficulty: "zor",
+			terrain: "Dağ, kar, rüzgar",
+			elevation: "1200–1600 m",
+			bestTime: "Ocak – Şubat kar; Temmuz yayla",
+			tips: [
+				"Kış çadırı tecrübesiz gidilmez.",
+				"Aracı kış lastiği olmadan çıkarmayın.",
+				"Karbonmonoksit: mangal çadırda asla."
+			],
+			packing: [
+				"4 mevsim çadır",
+				"Uyku tulumu -10",
+				"İzomat R-değeri yüksek",
+				"Kafa lambası + yedek batarya",
+				"Termos ve yağlı yiyecek"
+			],
+			rules: ["Pist dışı kayak kuralı.", "Çadırı rüzgar koruma arkasına."]
+		},
+		{
+			id: "masukiye",
+			name: "Maşukiye",
+			category: "kamp",
+			district: "Kocaeli",
+			side: "yakin",
+			summary: "Şelale, alabalık ve Kartepe eteği; dört mevsim, kışın kar yakın.",
+			description: "Kartepe'nin alt köyü. Şelale yürüyüşü, alabalık tesisleri, bungalov. Çadır alanları özel işletmelerde. Yazın serin, kışın köyde kar görülebilir, dağ kadar değil. Hafta sonu İstanbul kaçar, pazar kahvaltısı kuyruklu. Kartepe'ye çıkış noktası.",
+			highlights: [
+				"Şelale",
+				"Alabalık",
+				"Kartepe eteği"
+			],
+			hours: "Yıl boyu tesis.",
+			fee: "İşletme ücretli.",
+			transport: "TEM Maşukiye. Kartepe ile aynı yol.",
+			address: "Maşukiye, Kartepe",
+			lat: 40.62,
+			lng: 30.03,
+			tags: [
+				"dört mevsim",
+				"şelale",
+				"kış yakın"
+			],
+			image: "/images/camp-forest.jpg",
+			distanceKm: 105,
+			duration: "Kadıköy'den ~1 sa 40 dk",
+			seasons: ["dort-mevsim", "kis"],
+			facilities: [
+				"cadir",
+				"bungalov",
+				"wc",
+				"dus",
+				"market",
+				"orman",
+				"yuruyus"
+			],
+			difficulty: "kolay",
+			terrain: "Köy ve vadi",
+			elevation: "400–700 m",
+			bestTime: "Mayıs, Ekim, karlı kış hafta içi",
+			tips: ["Şelale kayalıkları ıslak.", "Kışın zincir."],
+			packing: ["Yürüyüş ayakkabısı", "Yağmurluk"],
+			rules: ["Şelale yatağına girmeyin."]
+		},
+		{
+			id: "sapanca",
+			name: "Sapanca Gölü",
+			category: "kamp",
+			district: "Sakarya",
+			side: "yakin",
+			summary: "Göl kenarı dört mevsim; kolay kamp, karavan ve bungalov.",
+			description: "TEM üzerinde, İstanbul'a en kolay göl kaçamaklarından. Kıyı tesisleri çadır, karavan, bungalov. Yazın yüzme (belirli plajlar), kışın sis ve sakin. Hafta sonu dolu. Maşukiye–Kartepe üçgenine üs yapılabilir. Rüzgar gölde ani yükselir.",
+			highlights: [
+				"Göl",
+				"Kolay ulaşım",
+				"Karavan"
+			],
+			hours: "Yıl boyu.",
+			fee: "Tesis ücretli.",
+			transport: "TEM Sapanca. Otobüs / özel araç.",
+			address: "Sapanca, Sakarya",
+			lat: 40.691,
+			lng: 30.268,
+			tags: [
+				"dört mevsim",
+				"göl",
+				"kolay"
+			],
+			image: "/images/sapanca.jpg",
+			distanceKm: 130,
+			duration: "Kadıköy'den ~1 sa 45 dk",
+			seasons: ["dort-mevsim"],
+			facilities: [
+				"cadir",
+				"karavan",
+				"bungalov",
+				"wc",
+				"dus",
+				"elektrik",
+				"su",
+				"market",
+				"gol"
+			],
+			difficulty: "kolay",
+			terrain: "Göl kenarı çim / çakıl",
+			bestTime: "Mayıs – Haziran, Eylül",
+			tips: ["Göl suyu içilmez.", "Yazın gölge parseli seçin."],
+			packing: [
+				"Güneş kremi",
+				"Böcek kovucu",
+				"Mayo (yaz)"
+			],
+			rules: ["Tesis sınırında ateş.", "Motorlu su aracı kuralı."]
+		},
+		{
+			id: "yedigoller",
+			name: "Yedigöller",
+			category: "kamp",
+			district: "Bolu",
+			side: "yakin",
+			summary: "Yedi göl, sonbahar sarıları ve kış karı. Milli park, kontrollü kamp.",
+			description: "Bolu milli parkı. Kapankaya seyir, yedi göl yürüyüşü. Kamp yerleri parkın belirlediği alanlar. Sonbahar (ekim-kasım) İstanbul'dan en çok gidilen doğa. Kışın kar ve kapalı yol riski. Yazın serin ve yeşil. Giriş saati ve araç kotası olur.",
+			highlights: [
+				"Yedi göl",
+				"Sonbahar",
+				"Kapankaya"
+			],
+			hours: "Milli park saat / sezon kuralı.",
+			fee: "Park girişi + kamp.",
+			transport: "TEM Bolu, sonra ~1 sa viraj. Kış lastiği.",
+			address: "Yedigöller Milli Parkı, Bolu",
+			lat: 40.943,
+			lng: 31.737,
+			tags: [
+				"dört mevsim",
+				"kış",
+				"milli park"
+			],
+			image: "/images/camp-lake.jpg",
+			distanceKm: 260,
+			duration: "İstanbul'dan ~3.5–4.5 sa",
+			seasons: ["dort-mevsim", "kis"],
+			facilities: [
+				"cadir",
+				"bungalov",
+				"wc",
+				"orman",
+				"gol",
+				"yuruyus",
+				"ates-yasak"
+			],
+			difficulty: "orta",
+			terrain: "Orman ve göl çevresi",
+			elevation: "800–900 m",
+			bestTime: "Ekim sonu – Kasım; kış kar",
+			tips: [
+				"Sonbahar hafta sonu kuyruk.",
+				"Kışın zincir.",
+				"Ayı bölgesi: yiyecek asın / kapalı kutu."
+			],
+			packing: [
+				"Sıcak katman",
+				"Yedek çorap",
+				"Nakit giriş"
+			],
+			rules: ["Park dışına çıkmayın.", "Ateş sadece izinli ocak."]
+		},
+		{
+			id: "uludag",
+			name: "Uludağ",
+			category: "kamp",
+			district: "Bursa",
+			side: "yakin",
+			summary: "Kışın kayak ve kar kampı; yazın zirve yaylası ve sis.",
+			description: "Bursa'nın dağı, İstanbul'dan otobüs+teleferik veya araç. Kış kampı otel bölgesi dışında tecrübe ister. Yazın zirve serin, gece soğuk. Milli park. Teleferik rüzgar iptali olur. Kış: çığ ve pist dışı tehlikeli. Yaz: su az, güneş sert.",
+			highlights: [
+				"Kar",
+				"Teleferik",
+				"Zirve"
+			],
+			hours: "Kayak sezonu ve yaz parkuru ayrı.",
+			fee: "Teleferik + park + konaklama.",
+			transport: "Bursa otogar / teleferik. Arabayla ~2.5–3.5 sa.",
+			address: "Uludağ Milli Parkı, Bursa",
+			lat: 40.07,
+			lng: 29.221,
+			tags: [
+				"kış",
+				"kayak",
+				"milli park"
+			],
+			image: "/images/kartepe-snow.jpg",
+			distanceKm: 155,
+			duration: "İstanbul'dan ~2.5–3.5 sa",
+			seasons: ["kis"],
+			facilities: [
+				"cadir",
+				"bungalov",
+				"wc",
+				"orman",
+				"yuruyus"
+			],
+			difficulty: "zor",
+			terrain: "Alpini dağ, kar",
+			elevation: "1800–2500 m",
+			bestTime: "Ocak – Mart kayak; Temmuz zirve yürüyüş",
+			tips: [
+				"Kış çadırını tecrübesiz kurmayın.",
+				"Teleferik son seferini kaçırmayın.",
+				"Yazın dehidratasyon."
+			],
+			packing: [
+				"Katmanlı giyim",
+				"Güneş gözlüğü (kar körlüğü)",
+				"Termos"
+			],
+			rules: ["Milli park, çığ uyarıları.", "Pist dışı kayak yasak/tehlikeli."]
+		},
+		{
+			id: "igneada",
+			name: "İğneada Longoz",
+			category: "kamp",
+			district: "Kırklareli",
+			side: "yakin",
+			summary: "Su basar orman, göl ve Karadeniz. Yaz sivrisinek, omuz mevsimleri altın.",
+			description: "Trakya'nın unique longozu (su basar orman). Milli park. Kamp köy ve park çevresindeki tesislerde. Yazın sivrisinek efsane; mayıs ve eylül daha iyi. Bisiklet ve kuş. İstanbul'dan uzun yol (~3 sa). Deniz + orman + göl aynı günde.",
+			highlights: [
+				"Longoz",
+				"Göl",
+				"Kuş"
+			],
+			hours: "Park gündüz; tesis yıl boyu kısmi.",
+			fee: "Park + kamp.",
+			transport: "TEM / D-020 Kırklareli–Demirköy–İğneada.",
+			address: "İğneada, Demirköy",
+			lat: 41.875,
+			lng: 27.986,
+			tags: [
+				"yaz",
+				"dört mevsim",
+				"longoz"
+			],
+			image: "/images/camp-lake.jpg",
+			distanceKm: 230,
+			duration: "İstanbul'dan ~3 sa",
+			seasons: ["yaz", "dort-mevsim"],
+			facilities: [
+				"cadir",
+				"bungalov",
+				"wc",
+				"orman",
+				"gol",
+				"plaj",
+				"yuruyus"
+			],
+			difficulty: "kolay",
+			terrain: "Longoz, göl, kumsal",
+			bestTime: "Mayıs, Eylül",
+			tips: ["Sivrisinek kremi litreyle.", "Tahta yürüyüş yollarında kalın."],
+			packing: [
+				"Sivrisinek ağı",
+				"Binokl",
+				"Yağmurluk"
+			],
+			rules: ["Longoza araç sokmayın.", "Ağaç tahrip yasak."]
+		},
+		{
+			id: "beylerbeyi",
+			name: "Beylerbeyi Sarayı",
+			category: "muze",
+			district: "Üsküdar",
+			side: "asya",
+			era: "Geç Osmanlı",
+			summary: "Anadolu yakasının Boğaz sarayı; Abdülaziz’in mermer köşkü, bahçe ve yalı odaları.",
+			description: "1861–65, Sarkis Balyan. Yabancı konuklar için yazlık saray; İmparatoriçe Eugénie burada ağırlanmış. Selamlık ve harem ayrı gezilir, Milli Saraylar bileti. Boğaz’a sıfır bahçe. Kuzguncuk ve Küçüksu ile aynı sahil hattı. İçerisi Dolmabahçe’den küçük, daha sakin.",
+			highlights: [
+				"Mermer cephe",
+				"Boğaz bahçesi",
+				"Harem daireleri"
+			],
+			hours: "Milli Saraylar saatleri; genelde pazartesi kapalı.",
+			fee: "Ücretli.",
+			transport: "Üsküdar–Beylerbeyi 15 hattı. Üsküdar’dan sahil ~20 dk.",
+			address: "Abdullahaga Cd., Beylerbeyi",
+			lat: 41.0425,
+			lng: 29.04,
+			tags: [
+				"saray",
+				"boğaz",
+				"anadolu"
+			],
+			image: "/images/beylerbeyi.jpg",
+			distanceKm: 11,
+			duration: "Üsküdar’dan 20 dk",
+			tips: ["Fotoğraf salona göre kısıtlı.", "Bahçe Boğaz trafiği için iyi kadraj."]
+		},
+		{
+			id: "kucuksu",
+			name: "Küçüksu Kasrı",
+			category: "muze",
+			district: "Beykoz",
+			side: "asya",
+			era: "19. yüzyıl",
+			summary: "Göksu çayırında neo-barok av kasrı; kısa ziyaret, Hisar’ın karşısı.",
+			description: "Abdülmecid’in av ve dinlenme köşkü, Nigogayos Balyan. Küçük, süslü, tek seferde gezilir. Çayır yazın piknik, kışın rüzgarlı. Anadolu Hisarı yürüme mesafesi. Milli Saraylar. Çocuklu aile için 30–40 dakikalık durak.",
+			highlights: [
+				"Cephe oymaları",
+				"Göksu çayırı",
+				"Kısa tur"
+			],
+			hours: "Milli Saraylar; dönemsel kapalı gün.",
+			fee: "Ücretli.",
+			transport: "15, 15A Küçüksu. Anadolu Hisarı durağından yaya.",
+			address: "Küçüksu Cd., Beykoz",
+			lat: 41.078,
+			lng: 29.065,
+			tags: [
+				"kasır",
+				"boğaz",
+				"anadolu"
+			],
+			image: "/images/kucuksu.jpg",
+			distanceKm: 14,
+			duration: "Üsküdar’dan 30 dk",
+			tips: ["Hisar + kasır aynı saate sığar.", "Çayırda gölge az."]
+		},
+		{
+			id: "sadberk-hanim",
+			name: "Sadberk Hanım Müzesi",
+			category: "muze",
+			district: "Sarıyer",
+			side: "avrupa",
+			era: "Arkeoloji / Osmanlı",
+			summary: "Büyükdere yalılarında özel müze; arkeoloji kanadı ve kadın giyim koleksiyonu.",
+			description: "Vehbi Koç vakfı. İki yalı: Azaryan (arkeoloji) ve Sevgi (Osmanlı-kadın eşyası). Çini, hat, günlük hayat nesneleri. Boğaz kıyısında, Büyükdere iskelesine yakın. Kalabalık Sultanahmet’e göre sakin; koleksiyon kalitesi yüksek.",
+			highlights: [
+				"Arkeoloji yalısı",
+				"Osmanlı kadın koleksiyonu",
+				"Boğaz yalı"
+			],
+			hours: "Genelde 10:00–17:00; çarşamba kapalı olabilir.",
+			fee: "Ücretli.",
+			transport: "Sarıyer otobüs / minibüs Büyükdere. Vapur dönemsel.",
+			address: "Piyasa Cd., Büyükdere",
+			lat: 41.161,
+			lng: 29.046,
+			tags: [
+				"yalı",
+				"özel müze",
+				"sarıyer"
+			],
+			image: "/images/sadberk.jpg",
+			distanceKm: 18,
+			duration: "Taksim’den 45 dk",
+			tips: ["İki binayı da gezın.", "Sahil yürüyüşüyle birleştirin."]
+		},
+		{
+			id: "oyuncak",
+			name: "İstanbul Oyuncak Müzesi",
+			category: "muze",
+			district: "Kadıköy",
+			side: "asya",
+			era: "Çocukluk arşivi",
+			summary: "Göztepe’de tarihi evde teneke tren, oyuncak bebek ve Anadolu oyunu; aile durağı.",
+			description: "Sunay Akın’ın koleksiyonu, eski bir İstanbul evinde. 1700’lerden 20. yüzyıla oyuncaklar. Çocuklu Anadolu yakası gününün en somut durağ. Bahçe kahvesi var. Hafta sonu kuyruk; okul saatlerinde sakin.",
+			highlights: [
+				"Teneke oyuncaklar",
+				"Tarihi ev",
+				"Bahçe"
+			],
+			hours: "Genelde 09:30–18:00; pazartesi kapalı.",
+			fee: "Ücretli. Çocuk bileti ayrı.",
+			transport: "Kadıköy–Göztepe minibüs / M4 Göztepe + yaya.",
+			address: "Ömerpaşa Cd., Göztepe",
+			lat: 40.978,
+			lng: 29.066,
+			tags: [
+				"aile",
+				"kadıköy",
+				"oyuncak"
+			],
+			image: "/images/oyuncak.jpg",
+			distanceKm: 12,
+			duration: "Kadıköy’den 15 dk",
+			tips: ["Bebek arabası merdivenlerde zor.", "Fotoğraf kuralları salona göre."]
+		},
+		{
+			id: "baris-manco",
+			name: "Barış Manço Evi",
+			category: "muze",
+			district: "Kadıköy",
+			side: "asya",
+			era: "Cumhuriyet",
+			summary: "Moda’da müzisyenin evi; sahne kostümleri, plaklar ve 70–80 Kadıköy’ü.",
+			description: "Barış Manço’nun ailesinin açtığı ev müze. Dar odalar, kişisel eşya, sahne kıyafetleri. Moda iskelesi ve çarşı yürüme mesafesi. Küçük, randevusuz; 40 dakika. Kadıköy gününün kültürel eki.",
+			highlights: [
+				"Sahne kostümleri",
+				"Moda evi",
+				"Plaklar"
+			],
+			hours: "Genelde 10:00–17:00; pazartesi kapalı.",
+			fee: "Ücretli.",
+			transport: "Kadıköy vapur + Moda yokuşu. 15 dakika yaya.",
+			address: "Yusuf Kamil Paşa Sk., Moda",
+			lat: 40.9845,
+			lng: 29.0265,
+			tags: [
+				"müzik",
+				"moda",
+				"ev müze"
+			],
+			image: "/images/historic-street.jpg",
+			distanceKm: 9,
+			duration: "Kadıköy’den 12 dk",
+			tips: ["Dar merdiven.", "Moda sahiliyle aynı yürüyüş."]
+		},
+		{
+			id: "anadolu-hisari",
+			name: "Anadolu Hisarı",
+			category: "tarihi",
+			district: "Beykoz",
+			side: "asya",
+			era: "1394",
+			summary: "Yıldırım Bayezid’in Boğaz kalesi; Göksu ağzı, Rumeli Hisarı’nın karşısı.",
+			description: "Boğaz’ın Anadolu yakasındaki küçük hisar. 14. yüzyıl sonu. Restorasyon dönemlerinde içi kapalı olabilir; dışarıdan ve dere ağzından bakılır. Küçüksu Kasrı ve Göksu çayırı bitişik. Akşam ışığı taşlarda iyi. Ücretsiz açık hava durağı.",
+			highlights: [
+				"Dere ağzı",
+				"Karşı hisar kadrajı",
+				"Küçük kale"
+			],
+			hours: "Açık alan; iç restorasyona bağlı.",
+			fee: "Dışarı ücretsiz. İç açıldığında ayrı kural.",
+			transport: "15 hattı Anadolu Hisarı. Üsküdar’dan sahil.",
+			address: "Anadolu Hisarı, Beykoz",
+			lat: 41.0822,
+			lng: 29.0667,
+			tags: [
+				"hisar",
+				"boğaz",
+				"anadolu"
+			],
+			image: "/images/anadolu-hisar.jpg",
+			distanceKm: 14,
+			duration: "Üsküdar’dan 30 dk",
+			tips: ["Rumeli Hisarı ile aynı güne sığmaz; ayrı sahil.", "Dere kenarı ıslak."]
+		},
+		{
+			id: "hipodrom",
+			name: "Atmeydanı / Hipodrom",
+			category: "tarihi",
+			district: "Fatih",
+			side: "avrupa",
+			era: "Roma / Bizans",
+			summary: "Dikilitaş, Örme Dikilitaş ve Yılanlı Sütun; Sultanahmet’in açık meydanı.",
+			description: "Konstantinopolis hipodromunun izi. III. Thutmose dikilitaşı, Konstantin’in örme dikilitaşı, Plataea yılanlı sütunu. Atmeydanı bugün cami avlusu ile park. Ücretsiz, her saat. Alman Çeşmesi kuzey uçta. Sultanahmet turunun dış salonu.",
+			highlights: [
+				"Dikilitaş",
+				"Yılanlı Sütun",
+				"Alman Çeşmesi"
+			],
+			hours: "Açık alan, sürekli.",
+			fee: "Ücretsiz.",
+			transport: "T1 Sultanahmet.",
+			address: "Atmeydanı, Sultanahmet",
+			lat: 41.0064,
+			lng: 28.9756,
+			tags: [
+				"hipodrom",
+				"roma",
+				"meydan"
+			],
+			image: "/images/hipodrom.jpg",
+			distanceKm: 7,
+			duration: "Merkezden 25 dk",
+			tips: ["Gece aydınlatması iyi fotoğraf.", "Yılanlı sütun alçak, dikkat."]
+		}
+	],
+	...UNESCO_PLACES,
+	...TREK_PLACES
+];
+function getPlace(id) {
+	return PLACES.find((p) => p.id === id);
+}
+function byCategory(category) {
+	return PLACES.filter((p) => p.category === category);
+}
+function searchPlaces(query, list = PLACES) {
+	const q = query.trim().toLocaleLowerCase("tr");
+	if (!q) return list;
+	return list.filter((p) => {
+		return [
+			p.name,
+			p.district,
+			p.summary,
+			p.description,
+			p.era ?? "",
+			p.region ?? "",
+			p.unescoYear ? String(p.unescoYear) : "",
+			p.category === "unesco" ? "unesco dünya mirası kültürel" : "",
+			p.category === "yuruyus" ? "yürüyüş trekking parkur hiking" : "",
+			...p.tags,
+			...p.highlights
+		].join(" ").toLocaleLowerCase("tr").includes(q);
+	});
+}
+function relatedPlaces(place, limit = 3) {
+	return PLACES.filter((p) => p.id !== place.id).map((p) => {
+		let score = 0;
+		if (p.category === place.category) score += 2;
+		if (place.trailKind && p.trailKind === place.trailKind) score += 3;
+		if (p.district === place.district) score += 4;
+		if (place.region && p.region === place.region) score += 3;
+		if (p.side === place.side) score += 1;
+		if (place.seasons?.length && p.seasons?.some((s) => place.seasons.includes(s))) score += 3;
+		return {
+			p,
+			score
+		};
+	}).filter((x) => x.score > 0).sort((a, b) => b.score - a.score).slice(0, limit).map((x) => x.p);
+}
+function todayPick(date = /* @__PURE__ */ new Date()) {
+	const month = date.getMonth();
+	const seed = date.getFullYear() * 400 + month * 32 + date.getDate();
+	const winter = month === 11 || month <= 1;
+	const summer = month >= 5 && month <= 7;
+	const pool = PLACES.filter((p) => {
+		if (p.category === "kamp") {
+			if (winter) return p.seasons?.includes("kis") || p.seasons?.includes("dort-mevsim");
+			if (summer) return p.seasons?.includes("yaz") || p.seasons?.includes("dort-mevsim");
+			return p.seasons?.includes("dort-mevsim");
+		}
+		return true;
+	});
+	return pool[seed % pool.length] ?? PLACES[0];
+}
+function seasonForMonth(month) {
+	if (month === 11 || month <= 1) return "kis";
+	if (month >= 5 && month <= 7) return "yaz";
+	return "dort-mevsim";
+}
+function weekendCamps(date = /* @__PURE__ */ new Date(), limit = 3) {
+	const season = seasonForMonth(date.getMonth());
+	const seed = date.getFullYear() * 53 + Math.floor((date.getTime() / 864e5 + 4) / 7);
+	const pool = PLACES.filter((p) => p.category === "kamp" && p.seasons?.includes(season));
+	if (pool.length === 0) return [];
+	const start = seed % pool.length;
+	return Array.from({ length: Math.min(limit, pool.length) }, (_, i) => pool[(start + i) % pool.length]);
+}
+function weekendTrails(date = /* @__PURE__ */ new Date(), limit = 3) {
+	const season = seasonForMonth(date.getMonth());
+	const seed = date.getFullYear() * 61 + Math.floor((date.getTime() / 864e5 + 4) / 7);
+	const pool = PLACES.filter((p) => {
+		if (p.category !== "yuruyus") return false;
+		if (season === "yaz") return true;
+		if (season === "kis") return p.trailKind === "orman" || p.trailKind === "kent";
+		return p.seasons?.includes("dort-mevsim") || p.seasons?.includes(season);
+	});
+	if (pool.length === 0) return [];
+	const start = seed % pool.length;
+	return Array.from({ length: Math.min(limit, pool.length) }, (_, i) => pool[(start + i) % pool.length]);
+}
+[...new Set(PLACES.map((p) => p.district))].sort((a, b) => a.localeCompare(b, "tr"));
+//#endregion
+export { getPlace as a, seasonForMonth as c, weekendTrails as d, featuredTrails as i, todayPick as l, TREK_PACKING as n, relatedPlaces as o, byCategory as r, searchPlaces as s, PLACES as t, weekendCamps as u };

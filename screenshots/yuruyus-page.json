@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/yuruyus",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "İstanbul Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 3908,
+      "bodyTextHash": "e7d45f5b9a609f455784e8dbe18e180b85e7b3cbc94e378fcce707bd7729fe33",
+      "bodyTextPrefix": "İstanbul Atlas ŞEHİR & DOĞA Keşfet Müzeler Tarihi UNESCO Kamp Yü",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/yuruyus-page.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "İstanbul Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 3881,
+      "bodyTextHash": "e5c908d7cd358cd111cd52c4697f190d2039041d423e00078469975e19429f3d",
+      "bodyTextPrefix": "İstanbul Atlas PARKUR DEFTERİ · 15 ROTA İstanbul trekking Bentle",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/yuruyus-page-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/yuruyus-page.json"
+}

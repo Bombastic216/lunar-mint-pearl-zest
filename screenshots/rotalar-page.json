@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/rotalar",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "İstanbul Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 2748,
+      "bodyTextHash": "f38a75191be0325b8c768c1bc272e8d070f089c6a2b8ff8f76dbbb86258612e9",
+      "bodyTextPrefix": "İstanbul Atlas ŞEHİR & DOĞA Keşfet Müzeler Tarihi UNESCO Kamp Yü",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rotalar-page.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "İstanbul Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 2721,
+      "bodyTextHash": "9b7537d9ca95066c9d088e26b97e05a04e353f4e9ad8459a15a737f386c90297",
+      "bodyTextPrefix": "İstanbul Atlas HAZIR GÜZERGAH Rotalar Şehir günleri, yürüyüş par",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rotalar-page-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/rotalar-page.json"
+}
